@@ -1,0 +1,3826 @@
+﻿employeeid,RecruitmentSo,YearsSinceHire,RecruiterIdID
+1,LinkedIn,1,1190
+10,Indeed,6,2419
+100,LinkedIn,3,2419
+1001,Indeed,1,2419
+1002,LinkedIn,7,2868
+1003,Employee Referral,7,2868
+1004,Indeed,1,2419
+1005,Indeed,1,2419
+1007,Google Search,1,2419
+1009,Employee Referral,5,2419
+1010,Employee Referral,15,2419
+1011,LinkedIn,3,2419
+1013,Indeed,2,3309
+1014,Indeed,1,1190
+1015,Indeed,5,2419
+1016,LinkedIn,1,949
+1017,Employee Referral,12,2419
+1018,Indeed,2,2419
+1019,LinkedIn,5,2419
+102,LinkedIn,13,2419
+1020,Indeed,2,369
+1021,LinkedIn,12,949
+1022,Indeed,5,458
+1023,Indeed,10,2419
+1024,CareerBuilder,10,2419
+1025,Indeed,10,2419
+1026,Google Search,5,458
+1027,Indeed,4,369
+1028,Indeed,2,2419
+1029,Indeed,4,2419
+103,LinkedIn,3,949
+1030,Website,0,949
+1032,CareerBuilder,11,1190
+1033,Employee Referral,7,4338
+1034,Indeed,10,2419
+1035,Indeed,2,2419
+1037,Google Search,3,2419
+1038,Google Search,22,2419
+104,Diversity Job,7,2868
+1042,Google Search,5,458
+1043,Google Search,10,2419
+1044,Indeed,16,2419
+1045,LinkedIn,5,2419
+1046,LinkedIn,22,2419
+1047,Google Search,7,2868
+1049,LinkedIn,3,369
+105,CareerBuilder,3,2419
+1050,Google Search,3,369
+1051,Google Search,4,2419
+1052,Google Search,5,458
+1053,Employee Referral,2,949
+1054,Indeed,0,949
+1055,Other,1,949
+1056,CareerBuilder,2,949
+1058,Employee Referral,1,1190
+1060,LinkedIn,5,1928
+1061,Diversity Job,11,949
+1062,CareerBuilder,0,1190
+1063,Diversity Job,6,949
+1064,Indeed,2,369
+1066,Indeed,3,2419
+1067,LinkedIn,7,2868
+1068,Indeed,0,1190
+1069,Diversity Job,2,2419
+107,Indeed,5,2419
+1070,Diversity Job,19,2419
+1072,LinkedIn,1,2419
+1073,LinkedIn,16,2419
+1074,Google Search,22,949
+1075,LinkedIn,1,2419
+1076,Employee Referral,8,3438
+1077,CareerBuilder,7,2868
+1078,Indeed,2,2419
+1079,LinkedIn,5,2419
+108,Indeed,1,1190
+1080,Google Search,1,2419
+1081,LinkedIn,1,1190
+1082,CareerBuilder,1,949
+1083,CareerBuilder,10,949
+1084,Google Search,10,949
+1085,CareerBuilder,5,458
+1086,Indeed,3,949
+1087,Indeed,5,2419
+1088,Indeed,3,369
+109,Indeed,8,3438
+1090,Indeed,10,949
+1091,LinkedIn,19,2419
+1092,LinkedIn,1,2419
+1093,Indeed,8,3438
+1094,Google Search,22,2419
+1095,Indeed,2,369
+1096,Indeed,5,949
+1098,Employee Referral,4,949
+1099,LinkedIn,5,949
+11,Diversity Job,20,2419
+110,LinkedIn,4,949
+1100,LinkedIn,13,949
+1101,CareerBuilder,5,458
+1102,Indeed,4,2419
+1103,LinkedIn,2,369
+1105,Google Search,4,2419
+1106,Indeed,10,1190
+1109,Google Search,3,2419
+111,Indeed,6,2419
+1110,Google Search,5,458
+1111,LinkedIn,15,2419
+1112,Indeed,2,2419
+1113,Diversity Job,8,3438
+1114,Employee Referral,0,2419
+1115,Employee Referral,10,2419
+1116,Indeed,20,2419
+1117,LinkedIn,1,1190
+1118,Website,4,2419
+1119,Google Search,5,2419
+112,Diversity Job,2,949
+1120,Indeed,5,458
+1121,CareerBuilder,0,1190
+1122,CareerBuilder,1,4130
+1123,Google Search,5,949
+1124,Website,5,949
+1125,Website,4,369
+1126,Indeed,5,2419
+1127,LinkedIn,14,2660
+1128,Diversity Job,8,3438
+1129,LinkedIn,7,4338
+1130,Indeed,5,2419
+1131,Website,5,2419
+1132,Diversity Job,10,3889
+1133,Indeed,4,3309
+1134,LinkedIn,1,2419
+1135,LinkedIn,10,2419
+1137,LinkedIn,1,2419
+1138,Google Search,10,2419
+1139,Indeed,2,2419
+114,Employee Referral,3,949
+1140,LinkedIn,4,2419
+1142,Website,10,2419
+1143,Diversity Job,6,2419
+1144,CareerBuilder,10,4130
+1145,Indeed,1,2660
+1146,LinkedIn,20,949
+1147,LinkedIn,20,2419
+1148,Diversity Job,11,2419
+1149,Indeed,5,2419
+115,LinkedIn,1,3889
+1150,Diversity Job,4,949
+1151,CareerBuilder,5,2419
+1152,LinkedIn,10,2419
+1153,LinkedIn,11,949
+1154,LinkedIn,2,369
+1156,Diversity Job,2,949
+1157,Employee Referral,17,3889
+1158,LinkedIn,1,949
+1159,Diversity Job,15,949
+116,LinkedIn,5,458
+1160,Indeed,2,949
+1161,LinkedIn,8,3438
+1162,Indeed,4,949
+1163,LinkedIn,5,458
+1164,LinkedIn,13,949
+1165,Indeed,2,949
+1167,LinkedIn,10,949
+1169,Google Search,6,2419
+117,Google Search,7,2868
+1170,Diversity Job,1,2419
+1171,Employee Referral,2,2419
+1172,Google Search,7,4338
+1173,CareerBuilder,18,369
+1174,LinkedIn,14,949
+1175,Indeed,16,949
+1176,Indeed,5,949
+1178,Employee Referral,4,949
+1179,Google Search,2,369
+118,LinkedIn,5,458
+1180,Google Search,6,2419
+1181,Website,1,2419
+1183,Employee Referral,4,2419
+1184,Indeed,13,949
+1185,Diversity Job,2,2419
+1186,Indeed,22,2419
+1187,Indeed,10,1190
+1188,CareerBuilder,20,2419
+119,Employee Referral,7,2868
+1190,Google Search,15,369
+1191,Google Search,5,2419
+1192,Indeed,4,369
+1194,Indeed,10,2419
+1195,Employee Referral,6,1272
+1196,Employee Referral,6,949
+1197,LinkedIn,5,458
+1198,Indeed,2,369
+1199,Website,10,1190
+12,Diversity Job,15,949
+120,CareerBuilder,2,369
+1200,Google Search,5,949
+1202,Diversity Job,4,3889
+1203,Indeed,5,2419
+1204,Diversity Job,3,949
+1205,Google Search,20,369
+1207,LinkedIn,4,2419
+1208,LinkedIn,5,2419
+1209,Google Search,7,2868
+121,Indeed,5,2419
+1210,LinkedIn,6,949
+1212,Employee Referral,4,369
+1213,Website,6,2419
+1214,CareerBuilder,10,4130
+1215,Indeed,0,949
+1216,Diversity Job,8,3438
+1217,Diversity Job,2,3309
+1218,Employee Referral,7,2868
+1219,LinkedIn,1,1190
+122,LinkedIn,5,458
+1220,LinkedIn,1,949
+1222,LinkedIn,7,2868
+1225,Website,5,949
+1226,Indeed,2,949
+1227,LinkedIn,4,949
+1228,Indeed,10,2419
+123,Google Search,5,949
+1230,Google Search,1,949
+1231,Indeed,25,2419
+1232,LinkedIn,3,949
+1233,Indeed,4,949
+1234,Diversity Job,5,2419
+1235,Google Search,12,1190
+1236,Indeed,0,1190
+1237,Indeed,4,369
+1238,Other,14,1190
+1239,Indeed,10,2419
+124,LinkedIn,1,949
+1241,LinkedIn,22,949
+1242,CareerBuilder,2,3309
+1243,Diversity Job,1,1190
+1245,Employee Referral,10,2419
+1248,Employee Referral,5,458
+1249,Website,3,949
+125,CareerBuilder,6,1272
+1250,Employee Referral,2,369
+1251,Google Search,1,3889
+1252,LinkedIn,5,458
+1253,Employee Referral,1,949
+1254,Diversity Job,1,1190
+1255,CareerBuilder,1,1190
+1257,Employee Referral,12,2419
+1258,LinkedIn,22,1839
+126,CareerBuilder,2,2419
+1260,Google Search,1,2419
+1262,LinkedIn,1,2419
+1263,LinkedIn,1,949
+1264,LinkedIn,2,2419
+1265,Google Search,4,949
+1266,Employee Referral,4,2419
+1267,Employee Referral,2,949
+1268,LinkedIn,15,369
+127,Google Search,10,949
+1274,LinkedIn,10,949
+1275,LinkedIn,27,369
+1276,Employee Referral,21,949
+1277,LinkedIn,17,369
+1278,Indeed,5,2419
+1279,LinkedIn,6,2419
+128,CareerBuilder,1,1190
+1280,Indeed,1,949
+1282,LinkedIn,1,1190
+1283,LinkedIn,4,949
+1284,Employee Referral,5,949
+1285,Diversity Job,1,949
+1286,Indeed,10,1190
+1287,Diversity Job,1,949
+1288,Diversity Job,11,949
+1289,Diversity Job,15,949
+129,Indeed,18,949
+1291,On-line Web a,5,949
+1292,Google Search,4,949
+1293,Employee Referral,10,1190
+1294,Google Search,6,3889
+1295,Google Search,1,949
+1296,LinkedIn,13,1190
+1297,Google Search,5,2419
+1299,Indeed,0,3889
+13,Diversity Job,36,2419
+130,Indeed,5,2419
+1300,CareerBuilder,4,949
+1301,Google Search,11,1190
+1303,Diversity Job,22,949
+1304,Indeed,10,949
+1305,Google Search,11,949
+1306,Diversity Job,10,2419
+1307,Google Search,11,1190
+1308,Diversity Job,4,949
+1309,Google Search,3,369
+131,Indeed,5,3889
+1310,Employee Referral,5,458
+1311,Indeed,37,949
+1312,Google Search,3,949
+1315,LinkedIn,1,1190
+1316,LinkedIn,16,949
+1317,Indeed,1,1190
+1318,Google Search,3,949
+1319,Indeed,8,3438
+132,LinkedIn,1,4130
+1320,Indeed,6,1272
+1321,LinkedIn,2,2419
+1322,Employee Referral,0,2419
+1323,Indeed,13,2419
+1325,Indeed,5,949
+1326,Google Search,5,949
+1327,Indeed,1,1190
+1328,Employee Referral,5,458
+1329,Employee Referral,11,1190
+133,Indeed,25,369
+1331,CareerBuilder,1,949
+1332,Indeed,25,949
+1333,Indeed,10,949
+1335,LinkedIn,5,2419
+1336,Employee Referral,20,949
+1337,Indeed,7,1398
+1338,LinkedIn,5,458
+1339,Indeed,40,369
+134,LinkedIn,1,1190
+1340,LinkedIn,0,949
+1341,Indeed,2,369
+1342,Indeed,15,949
+1343,CareerBuilder,3,369
+1344,Indeed,2,2419
+1345,Google Search,2,2419
+1347,Indeed,8,3438
+1349,Website,4,949
+1350,Indeed,15,949
+1351,CareerBuilder,2,369
+1352,Employee Referral,11,949
+1353,Indeed,5,2419
+1354,Indeed,6,949
+1355,Google Search,3,949
+1356,Google Search,5,458
+1358,LinkedIn,3,2419
+1359,Employee Referral,5,3398
+136,Indeed,3,2419
+1361,Google Search,5,2419
+1362,Google Search,1,949
+1363,Indeed,20,2419
+1364,LinkedIn,10,1190
+1366,Google Search,17,369
+1368,LinkedIn,10,2419
+1369,Google Search,1,2419
+137,Google Search,13,949
+1370,Google Search,1,1190
+1371,Google Search,12,2419
+1372,Employee Referral,4,369
+1373,Indeed,2,2419
+1374,Other,2,2419
+1375,CareerBuilder,5,1928
+1376,LinkedIn,5,2419
+1377,Employee Referral,1,2419
+1378,LinkedIn,5,2419
+138,Indeed,3,369
+1382,Diversity Job,5,949
+1383,Indeed,5,2419
+1384,Indeed,0,2419
+1386,LinkedIn,12,1190
+1387,Indeed,5,2419
+1388,Diversity Job,2,2419
+1389,Diversity Job,3,2419
+139,Indeed,5,458
+1390,Employee Referral,1,2419
+1391,LinkedIn,24,3889
+1392,LinkedIn,2,369
+1393,Google Search,4,3309
+1394,LinkedIn,3,369
+1395,Employee Referral,4,949
+1396,CareerBuilder,3,369
+1397,Indeed,4,369
+1398,LinkedIn,8,3438
+1399,Google Search,20,2419
+14,Google Search,10,2419
+1400,LinkedIn,24,2419
+1403,Google Search,33,2419
+1405,Indeed,1,2419
+1406,Indeed,5,2419
+1407,Indeed,20,949
+1408,LinkedIn,8,3438
+1409,Indeed,6,949
+141,Employee Referral,13,949
+1410,LinkedIn,5,2419
+1411,LinkedIn,1,1190
+1413,Google Search,2,2419
+1414,Indeed,7,2868
+1415,Indeed,5,2419
+1416,LinkedIn,7,4338
+1417,Employee Referral,1,1190
+1418,LinkedIn,10,1190
+1419,LinkedIn,4,2419
+142,LinkedIn,4,2419
+1420,CareerBuilder,8,3438
+1421,Indeed,3,2419
+1422,LinkedIn,4,2419
+1423,CareerBuilder,14,2419
+1424,Google Search,11,2419
+1425,Indeed,7,2868
+1426,Indeed,10,2419
+1427,Indeed,5,2419
+1428,Google Search,1,2419
+1429,Google Search,6,1272
+143,LinkedIn,21,2419
+1430,LinkedIn,6,2419
+1431,Indeed,19,2419
+1432,Diversity Job,6,1272
+1433,Employee Referral,13,949
+1434,Employee Referral,3,369
+1435,Indeed,10,1190
+1436,LinkedIn,16,949
+1437,Website,5,1928
+1438,Google Search,1,2419
+144,CareerBuilder,7,2868
+1440,CareerBuilder,11,4130
+1441,CareerBuilder,10,2419
+1442,Google Search,4,2419
+1443,Website,2,2419
+1444,Website,22,2419
+1445,Indeed,2,949
+1446,LinkedIn,7,2868
+1447,Diversity Job,5,458
+1448,LinkedIn,17,369
+145,Indeed,5,458
+1450,Website,33,2419
+1452,Indeed,3,369
+1453,LinkedIn,3,369
+1454,LinkedIn,3,369
+1455,LinkedIn,1,1190
+1457,Google Search,24,949
+1458,Indeed,2,2419
+1459,LinkedIn,2,2419
+146,LinkedIn,10,2419
+1460,CareerBuilder,11,949
+1461,Website,3,2419
+1462,Diversity Job,3,369
+1463,CareerBuilder,1,2660
+1464,Indeed,19,2419
+1465,LinkedIn,6,1272
+1466,LinkedIn,3,2419
+1467,Diversity Job,3,2419
+1468,Indeed,4,949
+147,CareerBuilder,10,2419
+1470,CareerBuilder,21,2419
+1471,LinkedIn,1,2660
+1472,LinkedIn,5,3889
+1473,LinkedIn,5,2419
+1474,Indeed,8,3438
+1475,Diversity Job,6,2419
+1476,Employee Referral,7,2868
+1477,LinkedIn,0,2419
+1478,Diversity Job,0,2419
+148,Google Search,2,949
+1480,LinkedIn,6,2419
+1481,Indeed,20,949
+1482,LinkedIn,15,2419
+1483,LinkedIn,36,2419
+1484,Indeed,10,2419
+1485,LinkedIn,5,2419
+1486,LinkedIn,5,2419
+1487,Website,3,2419
+1488,Google Search,5,3889
+149,Indeed,5,2419
+1490,Employee Referral,8,3438
+1491,Google Search,6,2419
+1492,CareerBuilder,10,2660
+1493,LinkedIn,5,2419
+1494,Indeed,20,2419
+1495,Indeed,10,2419
+1496,LinkedIn,10,2419
+1497,Employee Referral,5,2419
+1498,Google Search,17,3309
+1499,Google Search,1,2419
+15,On-line Web a,5,2419
+150,Indeed,2,949
+1500,Website,2,369
+1501,Google Search,3,2419
+1502,Employee Referral,5,2419
+1503,Indeed,3,2419
+1505,Indeed,2,2419
+1506,Indeed,8,3438
+1507,CareerBuilder,4,369
+1508,LinkedIn,20,369
+1509,Google Search,0,2419
+151,Indeed,5,2419
+1510,Google Search,11,1190
+1511,Indeed,1,949
+1512,Indeed,4,2419
+1513,Indeed,22,2419
+1514,Employee Referral,0,1190
+1515,Employee Referral,8,3438
+1516,LinkedIn,8,3438
+1517,Indeed,18,369
+1519,Google Search,13,4130
+152,Google Search,5,458
+1520,Indeed,10,2419
+1521,Diversity Job,5,2419
+1522,Indeed,5,2419
+1523,Diversity Job,2,3309
+1524,Google Search,24,2419
+1525,CareerBuilder,2,3309
+1526,LinkedIn,10,2419
+1527,LinkedIn,21,3309
+1528,Google Search,8,3438
+1529,LinkedIn,7,2868
+153,Google Search,5,458
+1530,LinkedIn,8,3438
+1531,Employee Referral,4,2419
+1532,Website,13,2419
+1533,CareerBuilder,5,2419
+1535,Diversity Job,7,2868
+1536,Diversity Job,3,2419
+1537,Employee Referral,10,2419
+1538,LinkedIn,10,949
+1539,LinkedIn,21,949
+154,LinkedIn,29,2419
+1540,Indeed,1,949
+1542,LinkedIn,3,2419
+1544,Website,5,2419
+1545,Indeed,4,949
+1546,LinkedIn,1,2419
+1547,Indeed,10,1190
+1548,Indeed,4,949
+1549,Google Search,7,1398
+155,Indeed,10,1190
+1551,LinkedIn,10,3889
+1552,Indeed,8,3438
+1553,Diversity Job,6,1272
+1554,Google Search,11,949
+1555,Indeed,11,2419
+1556,Indeed,7,2868
+1557,Other,16,369
+1558,Indeed,4,949
+1559,Indeed,5,949
+156,Diversity Job,6,2419
+1560,LinkedIn,0,1190
+1561,CareerBuilder,1,949
+1562,Diversity Job,4,369
+1563,LinkedIn,3,369
+1564,Employee Referral,8,3438
+1565,Indeed,0,1190
+1566,LinkedIn,7,2868
+1567,Employee Referral,2,369
+1569,Employee Referral,1,1190
+157,Employee Referral,5,949
+1570,Google Search,3,2419
+1572,Employee Referral,13,949
+1573,Diversity Job,3,949
+1574,CareerBuilder,7,2868
+1575,Indeed,3,2419
+1577,LinkedIn,5,2419
+1578,Website,1,1190
+1579,Google Search,8,3438
+158,Employee Referral,2,2419
+1580,Diversity Job,4,2419
+1581,LinkedIn,6,2419
+1582,LinkedIn,2,2419
+1584,Google Search,3,2419
+1585,Employee Referral,1,2419
+1586,Employee Referral,5,458
+1587,LinkedIn,7,2868
+1588,LinkedIn,5,458
+1589,Indeed,7,2868
+159,Indeed,1,1190
+1590,LinkedIn,2,369
+1591,Indeed,5,949
+1592,Google Search,5,458
+1593,LinkedIn,5,949
+1594,LinkedIn,1,949
+1595,Employee Referral,6,1272
+1596,LinkedIn,2,2419
+1597,Indeed,10,2419
+1598,LinkedIn,1,1190
+1599,Indeed,18,949
+16,Google Search,5,2419
+160,LinkedIn,20,369
+1600,Google Search,5,949
+1601,LinkedIn,5,949
+1602,LinkedIn,1,1190
+1603,Employee Referral,25,369
+1604,Diversity Job,1,2660
+1606,Diversity Job,3,949
+1607,Diversity Job,13,949
+1608,Diversity Job,3,369
+1609,Google Search,5,458
+161,Website,3,2419
+1611,Google Search,13,949
+1612,Employee Referral,4,949
+1613,Google Search,21,949
+1614,Google Search,7,2868
+1615,LinkedIn,5,458
+1616,Google Search,10,2419
+1617,Indeed,10,2419
+1618,Indeed,2,2419
+1619,CareerBuilder,5,2419
+162,Google Search,5,3889
+1620,Google Search,2,2419
+1621,LinkedIn,5,2419
+1622,Diversity Job,5,458
+1623,Indeed,5,458
+1624,Google Search,29,2419
+1625,Diversity Job,10,2660
+1626,Google Search,6,3889
+1627,Diversity Job,5,2419
+1628,Google Search,2,2419
+1629,Employee Referral,1,2660
+163,Indeed,10,2419
+1630,Indeed,20,3309
+1631,Google Search,3,2419
+1632,Indeed,5,2419
+1633,Indeed,10,2419
+1634,LinkedIn,2,3889
+1635,LinkedIn,1,2419
+1637,Google Search,1,2419
+1638,Indeed,27,3309
+1639,Indeed,11,1190
+164,CareerBuilder,2,2419
+1640,LinkedIn,18,2419
+1641,Employee Referral,5,949
+1642,Indeed,3,3309
+1643,Indeed,5,2419
+1644,Indeed,1,2419
+1646,Indeed,3,2419
+1647,Employee Referral,13,2419
+1648,Employee Referral,7,2868
+1649,LinkedIn,4,3309
+165,CareerBuilder,1,2419
+1650,CareerBuilder,3,949
+1651,Indeed,8,3438
+1652,Indeed,1,949
+1653,Indeed,3,369
+1654,LinkedIn,2,2419
+1655,Employee Referral,10,949
+1656,Indeed,2,2419
+1658,Indeed,10,2419
+1659,LinkedIn,14,2419
+1660,Indeed,11,2419
+1661,Indeed,20,2419
+1662,CareerBuilder,8,3438
+1663,Indeed,6,2419
+1664,Google Search,10,2419
+1665,Indeed,8,3438
+1666,Indeed,7,2868
+1667,Indeed,3,2419
+1668,Website,6,2419
+1669,Indeed,5,949
+167,Website,1,2419
+1670,CareerBuilder,0,949
+1671,Employee Referral,1,2419
+1672,Indeed,8,3438
+1673,Indeed,0,2419
+1674,Google Search,5,2419
+1675,Google Search,10,2419
+1676,Google Search,1,1190
+1677,LinkedIn,6,2419
+1678,Employee Referral,2,2419
+1679,Indeed,18,2419
+168,Website,27,369
+1681,Google Search,10,1190
+1682,Indeed,4,2419
+1683,LinkedIn,2,3309
+1684,LinkedIn,1,2419
+1685,Google Search,6,949
+1686,Indeed,31,369
+1687,LinkedIn,6,1272
+1688,Google Search,5,2419
+1689,Google Search,1,4130
+169,Indeed,11,1190
+1690,Google Search,32,369
+1691,Employee Referral,7,2868
+1692,Indeed,6,2419
+1693,Other,1,949
+1694,CareerBuilder,6,1272
+1695,LinkedIn,3,2419
+1696,Employee Referral,3,2419
+1698,LinkedIn,5,3398
+1699,Diversity Job,3,369
+17,Employee Referral,3,2419
+170,LinkedIn,18,2419
+1700,CareerBuilder,1,949
+1701,Diversity Job,10,3889
+1702,Indeed,1,949
+1705,LinkedIn,3,3889
+1706,Indeed,2,369
+1707,Diversity Job,8,3438
+1708,Diversity Job,4,369
+1709,Employee Referral,3,369
+171,Diversity Job,5,3889
+1710,LinkedIn,2,949
+1711,LinkedIn,2,2419
+1712,Google Search,5,458
+1713,LinkedIn,6,3889
+1714,Employee Referral,1,2419
+1715,CareerBuilder,14,2419
+1716,Indeed,10,2419
+1717,LinkedIn,1,2419
+1718,Google Search,3,2419
+1719,LinkedIn,10,2419
+172,LinkedIn,3,3309
+1720,CareerBuilder,6,949
+1721,CareerBuilder,17,949
+1722,Google Search,13,949
+1724,Indeed,3,2419
+1725,Indeed,4,3309
+1726,Indeed,1,2419
+1727,LinkedIn,10,2419
+1728,Indeed,1,2419
+1729,LinkedIn,3,3889
+173,Indeed,5,2419
+1730,LinkedIn,3,2419
+1731,Indeed,7,2868
+1732,Google Search,10,2660
+1733,Indeed,2,2419
+1734,Indeed,6,1272
+1735,LinkedIn,1,2419
+1736,Employee Referral,20,369
+1737,LinkedIn,8,3438
+1738,LinkedIn,2,2419
+1739,CareerBuilder,20,2419
+174,Website,1,2419
+1740,Indeed,10,3889
+1741,LinkedIn,4,949
+1745,Indeed,7,2868
+1746,Indeed,18,2419
+1747,Google Search,5,2419
+1748,Google Search,21,369
+1749,LinkedIn,2,2419
+1751,Diversity Job,22,2419
+1752,Employee Referral,2,3309
+1754,Indeed,8,3438
+1755,LinkedIn,1,2419
+1756,Website,5,2419
+1757,Google Search,22,2419
+1758,Indeed,8,3438
+1759,CareerBuilder,1,949
+176,Indeed,3,949
+1760,CareerBuilder,2,2419
+1761,Google Search,2,2419
+1762,Website,5,949
+1763,Website,4,369
+1765,LinkedIn,10,2419
+1766,Diversity Job,4,3309
+1767,LinkedIn,7,2868
+1768,Indeed,2,369
+1769,Website,2,2419
+177,LinkedIn,13,2419
+1770,Diversity Job,1,2419
+1771,Indeed,10,1190
+1772,LinkedIn,1,1190
+1773,LinkedIn,0,949
+1774,LinkedIn,34,3309
+1775,LinkedIn,10,3889
+1776,Google Search,6,2419
+1778,LinkedIn,2,2419
+1779,CareerBuilder,5,949
+178,LinkedIn,7,2868
+1780,Website,6,2419
+1782,CareerBuilder,10,2419
+1783,Indeed,4,949
+1784,LinkedIn,2,2419
+1785,LinkedIn,8,3438
+1786,Diversity Job,4,2419
+1787,Indeed,4,949
+1788,Diversity Job,5,2419
+1789,CareerBuilder,4,2419
+179,LinkedIn,4,369
+1790,LinkedIn,5,458
+1791,LinkedIn,15,369
+1792,LinkedIn,6,1272
+1793,Indeed,3,2419
+1794,Diversity Job,2,2419
+1795,Employee Referral,8,3438
+1796,LinkedIn,3,2419
+1797,Diversity Job,24,2419
+1798,Indeed,0,2660
+1799,LinkedIn,1,1190
+18,Google Search,5,2419
+180,LinkedIn,3,2419
+1800,Indeed,5,2419
+1801,LinkedIn,4,2419
+1802,LinkedIn,1,1190
+1803,Indeed,13,2419
+1804,LinkedIn,3,2419
+1805,LinkedIn,26,2419
+1807,Google Search,10,2419
+1808,Diversity Job,31,2419
+1809,Employee Referral,2,3309
+181,Google Search,8,3438
+1810,Google Search,4,3309
+1811,CareerBuilder,2,2419
+1812,LinkedIn,5,2419
+1813,Indeed,14,2419
+1814,Indeed,1,4130
+1815,LinkedIn,0,2419
+1816,Employee Referral,1,2419
+1818,Google Search,4,369
+1819,Website,5,2419
+182,Indeed,1,949
+1822,Indeed,4,949
+1824,Indeed,8,3438
+1826,CareerBuilder,3,369
+1827,LinkedIn,8,3438
+1828,Google Search,0,1190
+1829,Google Search,20,369
+183,LinkedIn,3,369
+1830,Indeed,5,458
+1831,Indeed,4,2419
+1833,Employee Referral,6,1272
+1834,Employee Referral,18,1839
+1835,LinkedIn,5,949
+1836,Indeed,5,3889
+1837,Website,5,1928
+1838,Google Search,5,3889
+1839,Indeed,5,458
+184,CareerBuilder,2,3889
+1841,Indeed,1,1190
+1842,Diversity Job,5,2419
+1843,Google Search,2,2419
+1844,CareerBuilder,3,2419
+1845,LinkedIn,2,3309
+1846,LinkedIn,5,2419
+1847,Google Search,5,1928
+1848,LinkedIn,17,2419
+1849,LinkedIn,10,4130
+185,Website,10,949
+1850,Employee Referral,3,949
+1851,Website,5,458
+1852,CareerBuilder,4,3309
+1853,Indeed,5,2419
+1854,Diversity Job,10,2419
+1855,Diversity Job,2,369
+1856,Employee Referral,5,2419
+1857,LinkedIn,6,2419
+1858,LinkedIn,3,3309
+1859,Indeed,2,2419
+186,Diversity Job,2,949
+1860,LinkedIn,13,2419
+1861,LinkedIn,5,2419
+1862,Google Search,12,2419
+1863,Website,5,2419
+1865,LinkedIn,10,2419
+1866,Indeed,31,2419
+1867,Indeed,5,2419
+1868,Google Search,4,3309
+1869,Indeed,1,2419
+1870,LinkedIn,4,2419
+1871,Indeed,8,3438
+1872,Diversity Job,4,3309
+1873,Google Search,1,2660
+1874,Indeed,1,4130
+1875,Indeed,2,949
+1876,Other,1,949
+1877,Indeed,16,2419
+1878,Indeed,3,2419
+1879,LinkedIn,3,2419
+188,Indeed,10,949
+1880,CareerBuilder,7,2868
+1881,Diversity Job,2,2419
+1882,LinkedIn,2,2419
+1883,Employee Referral,1,2419
+1884,Indeed,1,2419
+1885,LinkedIn,5,458
+1886,Employee Referral,3,369
+1887,Website,6,949
+1889,Google Search,10,2419
+189,LinkedIn,14,2419
+1890,LinkedIn,26,2419
+1891,Employee Referral,0,2419
+1894,Indeed,15,369
+1895,Employee Referral,3,369
+1896,LinkedIn,1,2419
+1897,Website,1,2419
+1899,Diversity Job,18,949
+190,LinkedIn,11,2419
+1900,LinkedIn,11,949
+1901,LinkedIn,1,949
+1902,LinkedIn,1,949
+1904,Employee Referral,1,1190
+1905,Employee Referral,8,3438
+1906,LinkedIn,16,949
+1907,LinkedIn,5,2419
+1908,Indeed,14,1190
+191,Diversity Job,20,2419
+1910,Indeed,3,949
+1913,LinkedIn,1,1190
+1914,Employee Referral,17,949
+1916,Indeed,5,3398
+1917,LinkedIn,10,1190
+1919,Google Search,1,949
+192,Indeed,8,3438
+1920,LinkedIn,19,949
+1922,Employee Referral,3,2419
+1923,Diversity Job,10,1190
+1925,Diversity Job,3,949
+1926,Diversity Job,5,949
+1927,Diversity Job,5,458
+1928,Google Search,6,1272
+1929,On-line Web a,18,369
+193,Diversity Job,6,2419
+1930,Google Search,2,949
+1933,Google Search,5,458
+1934,LinkedIn,12,949
+1935,Google Search,2,949
+1936,Indeed,8,3438
+1937,Indeed,4,369
+1938,CareerBuilder,4,369
+1939,Google Search,4,949
+194,CareerBuilder,10,2419
+1940,LinkedIn,0,4130
+1941,Diversity Job,10,1190
+1942,Indeed,16,949
+1943,Google Search,8,3438
+1944,Diversity Job,1,949
+1945,Google Search,3,949
+1947,Google Search,4,2419
+1949,Indeed,15,369
+195,LinkedIn,8,3438
+1950,Google Search,2,949
+1951,Indeed,21,369
+1952,Indeed,3,949
+1953,LinkedIn,3,369
+1954,LinkedIn,1,949
+1955,Indeed,1,1190
+1956,Google Search,5,2419
+1957,Indeed,1,1190
+1958,Indeed,8,3438
+1959,LinkedIn,21,2419
+196,LinkedIn,7,2868
+1960,Employee Referral,1,2419
+1961,Indeed,2,2419
+1962,Indeed,32,2419
+1963,Indeed,12,949
+1965,Indeed,17,369
+1966,Employee Referral,21,369
+1967,Employee Referral,2,369
+1969,CareerBuilder,8,3438
+197,LinkedIn,3,2419
+1970,Indeed,15,3309
+1971,Indeed,6,2419
+1972,Indeed,6,2419
+1973,LinkedIn,15,369
+1974,Employee Referral,1,949
+1975,Indeed,3,369
+1976,LinkedIn,1,2419
+1977,Indeed,1,949
+1978,LinkedIn,2,3309
+1979,Indeed,8,3438
+198,Indeed,6,2419
+1980,Indeed,4,2419
+1982,Indeed,5,2419
+1983,Google Search,2,949
+1985,Indeed,5,2419
+1986,Indeed,14,2419
+1988,Indeed,1,1190
+1989,CareerBuilder,2,369
+199,Diversity Job,5,2419
+1990,Employee Referral,1,949
+1991,Indeed,16,369
+1992,Indeed,10,1190
+1993,Google Search,10,949
+1994,Google Search,5,949
+1995,Google Search,6,949
+1996,LinkedIn,10,1190
+1997,Employee Referral,19,949
+1998,Indeed,11,1190
+1999,Google Search,3,369
+2,Indeed,5,2419
+20,LinkedIn,8,3438
+200,Employee Referral,0,3889
+2000,Google Search,3,2419
+2001,Indeed,8,3438
+2002,LinkedIn,20,2419
+2003,LinkedIn,3,369
+2005,Indeed,13,949
+2007,Google Search,6,1272
+2008,Google Search,1,949
+201,LinkedIn,1,2419
+2010,Employee Referral,1,1190
+2011,Indeed,2,949
+2012,Other,22,2419
+2013,CareerBuilder,1,2419
+2014,LinkedIn,0,949
+2015,Employee Referral,3,369
+2016,LinkedIn,0,1190
+2017,LinkedIn,5,3398
+2018,Diversity Job,15,949
+202,Diversity Job,8,3438
+2020,Diversity Job,8,3438
+2021,Indeed,7,2868
+2023,Indeed,12,3889
+2024,LinkedIn,1,949
+2025,Indeed,8,3438
+2026,Diversity Job,18,369
+2027,Diversity Job,20,949
+2028,Employee Referral,2,2419
+2029,LinkedIn,5,2419
+203,Indeed,0,2419
+2030,LinkedIn,11,2419
+2031,Google Search,2,2419
+2032,LinkedIn,5,458
+2033,Employee Referral,5,949
+2035,Indeed,3,3309
+2036,LinkedIn,7,2868
+2037,Google Search,1,1190
+2038,LinkedIn,10,2660
+2039,CareerBuilder,7,2868
+204,LinkedIn,5,3889
+2040,CareerBuilder,3,369
+2041,Google Search,0,2419
+2042,CareerBuilder,5,2419
+2043,Indeed,1,949
+2044,Indeed,2,3309
+2045,Indeed,6,2419
+2046,LinkedIn,4,2419
+2047,Indeed,6,1272
+2048,LinkedIn,5,3889
+2049,LinkedIn,11,2419
+205,Indeed,10,2419
+2050,Indeed,18,949
+2051,Google Search,21,3309
+2052,Indeed,6,2419
+2053,Indeed,8,3438
+2054,LinkedIn,4,3309
+2055,Employee Referral,1,2419
+2056,LinkedIn,8,3438
+2057,LinkedIn,10,949
+2058,CareerBuilder,1,2419
+2059,Indeed,7,4338
+206,LinkedIn,1,1190
+2060,LinkedIn,13,2419
+2061,CareerBuilder,2,2419
+2062,Google Search,4,369
+2063,Indeed,1,2419
+2064,Indeed,5,2419
+2065,Indeed,10,2419
+2066,Google Search,1,2419
+2067,Google Search,3,2419
+2068,LinkedIn,14,2419
+2069,Indeed,2,2419
+207,LinkedIn,6,2419
+2071,Employee Referral,7,4338
+2072,Employee Referral,5,949
+2073,Indeed,0,949
+2074,LinkedIn,26,2419
+2075,Website,0,949
+2076,Google Search,5,2419
+2077,Indeed,1,2419
+2078,CareerBuilder,4,369
+2079,CareerBuilder,0,1190
+208,Indeed,2,2419
+2080,Google Search,2,949
+2081,Website,6,949
+2082,Website,4,949
+2085,Diversity Job,10,949
+2086,LinkedIn,7,2868
+2087,Indeed,10,1190
+2088,Website,20,949
+2089,Diversity Job,2,2419
+209,LinkedIn,18,2419
+2090,Indeed,6,1272
+2091,LinkedIn,4,2419
+2092,LinkedIn,11,1190
+2093,LinkedIn,2,369
+2094,LinkedIn,8,3438
+2096,Indeed,14,1190
+2097,LinkedIn,5,949
+2098,CareerBuilder,4,2419
+2099,Website,11,1190
+21,Google Search,6,2419
+2101,CareerBuilder,13,2419
+2103,LinkedIn,5,949
+2105,Diversity Job,1,1190
+2106,Indeed,3,2419
+2107,Diversity Job,10,949
+2108,CareerBuilder,6,949
+2109,LinkedIn,10,1190
+211,Website,10,1190
+2110,LinkedIn,6,949
+2111,LinkedIn,8,3438
+2112,Indeed,1,1190
+2113,Diversity Job,11,1190
+2114,Employee Referral,1,949
+2115,LinkedIn,5,949
+2116,Diversity Job,6,1272
+2117,Indeed,1,1190
+2118,LinkedIn,7,4338
+2119,Indeed,1,1190
+212,Google Search,4,2419
+2120,LinkedIn,22,949
+2122,Indeed,1,2660
+2123,LinkedIn,1,1190
+2124,LinkedIn,1,2419
+2127,Diversity Job,33,2419
+2128,Employee Referral,2,2419
+2129,Google Search,11,949
+213,Diversity Job,2,3309
+2130,CareerBuilder,3,369
+2131,LinkedIn,29,2419
+2133,Indeed,11,1190
+2134,LinkedIn,4,2419
+2135,Employee Referral,25,949
+2136,Google Search,10,1190
+2137,Google Search,3,2419
+2138,Website,1,2419
+2139,Google Search,21,2419
+214,Employee Referral,1,2419
+2140,Employee Referral,16,3889
+2141,Indeed,10,2419
+2142,Diversity Job,2,2419
+2144,Indeed,8,3438
+2145,CareerBuilder,7,2868
+2146,LinkedIn,3,3309
+2147,Google Search,2,2419
+2148,Google Search,10,2419
+2149,Indeed,0,2419
+215,Google Search,6,2419
+2150,Indeed,19,369
+2151,Indeed,2,2419
+2152,Employee Referral,10,2419
+2153,Employee Referral,5,2419
+2158,Indeed,3,2419
+2159,Diversity Job,5,458
+216,CareerBuilder,31,3309
+2160,Indeed,8,3438
+2162,Google Search,8,3438
+2163,CareerBuilder,10,2419
+2164,LinkedIn,19,369
+2165,LinkedIn,3,2419
+2166,Google Search,3,3309
+2167,LinkedIn,20,949
+2168,LinkedIn,19,369
+217,LinkedIn,6,1272
+2170,Website,4,2419
+2175,Employee Referral,33,3309
+2177,LinkedIn,10,2660
+2178,Indeed,3,2419
+2179,LinkedIn,10,1190
+218,Indeed,5,2419
+2180,LinkedIn,4,949
+2181,Google Search,15,369
+2182,Website,10,2419
+2183,Indeed,1,2419
+2184,LinkedIn,5,2419
+2185,Indeed,0,2419
+2187,Google Search,6,2419
+2188,Indeed,19,2419
+2189,LinkedIn,19,2419
+219,Indeed,1,1190
+2190,Indeed,5,458
+2191,Diversity Job,12,2419
+2192,Google Search,8,3438
+2193,Indeed,1,2419
+2194,Indeed,4,2419
+2195,Other,4,2419
+2196,Indeed,14,2419
+2197,Indeed,5,2419
+2198,LinkedIn,10,2419
+2199,CareerBuilder,5,2419
+22,Indeed,10,1190
+220,LinkedIn,32,369
+2200,Diversity Job,4,2419
+2201,LinkedIn,6,2419
+2202,Employee Referral,6,3889
+2203,Indeed,5,3889
+2204,LinkedIn,3,2419
+2205,Employee Referral,6,2419
+2206,Website,3,2419
+2207,Employee Referral,5,3889
+2208,Google Search,20,2419
+2209,LinkedIn,6,2419
+221,Employee Referral,7,2868
+2210,Employee Referral,8,3438
+2211,Diversity Job,4,949
+2212,CareerBuilder,20,3309
+2213,Indeed,5,2419
+2214,Employee Referral,3,2419
+2215,LinkedIn,2,2419
+2216,Website,3,2419
+2217,Google Search,7,1398
+2218,Diversity Job,10,1190
+2219,LinkedIn,4,369
+222,Google Search,6,2419
+2221,LinkedIn,20,3309
+2223,Employee Referral,7,2868
+2224,Employee Referral,5,2419
+2225,LinkedIn,1,1190
+2226,LinkedIn,3,369
+2227,Indeed,3,949
+2228,LinkedIn,4,369
+2229,Indeed,1,1190
+223,Google Search,1,949
+2231,LinkedIn,10,1190
+2232,LinkedIn,3,949
+2233,Employee Referral,6,949
+2234,LinkedIn,3,369
+2235,Indeed,6,1272
+2236,LinkedIn,3,949
+2237,Indeed,20,2419
+2238,Google Search,5,949
+2239,LinkedIn,4,369
+224,Website,6,1272
+2240,LinkedIn,5,949
+2241,Employee Referral,4,949
+2243,Indeed,13,3889
+2244,Diversity Job,7,1398
+2245,Diversity Job,1,949
+2246,Diversity Job,10,1190
+2248,On-line Web a,3,2419
+2249,Google Search,2,949
+225,Google Search,3,2419
+2250,Employee Referral,3,2419
+2251,Google Search,2,949
+2252,Google Search,2,949
+2254,Google Search,5,2419
+2255,Indeed,5,2419
+2257,CareerBuilder,3,949
+2258,Google Search,3,2419
+2259,LinkedIn,5,949
+226,Employee Referral,3,3889
+2261,Indeed,13,949
+2262,Google Search,2,369
+2263,Diversity Job,12,2419
+2264,Google Search,1,2419
+2265,Diversity Job,1,2419
+2266,Google Search,12,1190
+2267,Employee Referral,8,3438
+2268,Indeed,14,949
+2269,Google Search,3,2419
+2270,Indeed,5,2419
+2271,Indeed,15,949
+2272,LinkedIn,1,1190
+2273,LinkedIn,0,1190
+2274,Indeed,1,949
+2275,Google Search,2,2419
+2276,Indeed,10,1190
+2277,Indeed,5,949
+2278,LinkedIn,3,369
+2279,Employee Referral,5,2419
+228,Diversity Job,5,1928
+2280,Indeed,5,949
+2281,Indeed,0,1190
+2282,Indeed,1,2660
+2283,Google Search,4,2419
+2284,Indeed,3,3889
+2285,Employee Referral,3,2419
+2286,Employee Referral,8,3438
+2287,LinkedIn,0,2419
+2288,CareerBuilder,5,2419
+2289,Indeed,14,1190
+229,Indeed,3,369
+2291,Indeed,20,369
+2292,LinkedIn,2,369
+2293,Employee Referral,13,949
+2294,Indeed,11,949
+2295,LinkedIn,4,949
+2296,Indeed,5,949
+2298,Indeed,7,2868
+2299,Indeed,32,2419
+23,Indeed,5,2419
+230,Indeed,1,2419
+2300,CareerBuilder,11,4130
+2301,Indeed,1,2419
+2302,Google Search,10,949
+2303,Indeed,7,2868
+2304,Indeed,5,2419
+2305,Indeed,5,458
+2308,CareerBuilder,15,949
+2309,Employee Referral,21,369
+231,CareerBuilder,10,949
+2310,Indeed,1,1190
+2311,Indeed,2,2419
+2312,Google Search,10,2419
+2313,Google Search,5,2419
+2314,Google Search,7,4338
+2315,LinkedIn,3,369
+2316,Employee Referral,8,3438
+2317,Indeed,1,2419
+2318,Google Search,2,949
+2319,Google Search,10,2419
+232,LinkedIn,1,2419
+2320,Indeed,6,1272
+2321,LinkedIn,3,369
+2322,LinkedIn,4,2419
+2323,Google Search,1,2419
+2324,Indeed,33,2419
+2325,LinkedIn,5,3889
+2326,Google Search,6,2419
+2327,Google Search,8,3438
+2328,Google Search,1,2419
+2329,Employee Referral,36,2419
+2330,Indeed,2,2419
+2331,Other,1,2419
+2333,LinkedIn,3,2419
+2335,LinkedIn,10,949
+2336,LinkedIn,5,458
+2338,CareerBuilder,6,3889
+2339,Diversity Job,1,949
+2340,Indeed,2,949
+2341,Indeed,3,1839
+2342,Indeed,1,2419
+2343,LinkedIn,10,2660
+2344,Indeed,8,3438
+2345,Diversity Job,5,3889
+2346,Diversity Job,6,949
+2347,Employee Referral,1,1190
+2348,LinkedIn,26,949
+235,Indeed,3,2419
+2350,Google Search,4,369
+2351,LinkedIn,30,2419
+2352,Employee Referral,3,2419
+2353,CareerBuilder,22,949
+2354,Indeed,6,3889
+2355,LinkedIn,10,4130
+2356,Google Search,10,1190
+2357,LinkedIn,5,2419
+2358,CareerBuilder,3,949
+236,Indeed,2,369
+2361,CareerBuilder,7,2868
+2362,Indeed,7,2868
+2363,Indeed,16,2419
+2364,Indeed,5,2419
+2365,LinkedIn,2,2419
+2366,Indeed,0,3889
+2367,LinkedIn,5,2419
+2368,LinkedIn,10,4130
+2369,Indeed,18,2419
+237,Indeed,8,3438
+2370,Google Search,14,2419
+2371,Indeed,4,2419
+2373,LinkedIn,10,2419
+2374,Employee Referral,5,2419
+2375,LinkedIn,13,2419
+2376,LinkedIn,8,3438
+2377,CareerBuilder,4,2419
+2378,Indeed,10,2660
+2379,LinkedIn,2,369
+238,Employee Referral,4,369
+2380,CareerBuilder,2,2419
+2381,Google Search,6,949
+2382,Indeed,3,369
+2383,Indeed,4,2419
+2384,Indeed,4,369
+2385,Google Search,5,2419
+2386,Google Search,3,2419
+2388,Indeed,5,1928
+2389,Diversity Job,4,369
+239,Employee Referral,3,3309
+2390,Employee Referral,14,2419
+2391,Employee Referral,2,2419
+2392,Indeed,11,2419
+2393,LinkedIn,4,2419
+2395,Google Search,3,949
+2396,Indeed,5,2419
+2397,CareerBuilder,10,1190
+2398,CareerBuilder,14,2419
+2399,Google Search,11,949
+24,CareerBuilder,20,2419
+240,LinkedIn,2,2419
+2400,Website,13,2419
+2401,Website,10,2419
+2402,Indeed,6,949
+2404,Diversity Job,10,2419
+2405,LinkedIn,2,2419
+2406,Indeed,4,3309
+2407,Website,3,949
+2408,Diversity Job,8,3438
+2409,Indeed,2,2419
+241,Indeed,2,2419
+2410,LinkedIn,2,2419
+2411,LinkedIn,6,949
+2412,LinkedIn,3,949
+2413,LinkedIn,2,2419
+2415,Indeed,0,949
+2416,LinkedIn,4,949
+2418,Website,1,1190
+2419,Diversity Job,7,2868
+242,Website,5,458
+2420,CareerBuilder,4,949
+2421,Indeed,15,369
+2422,LinkedIn,1,1190
+2423,LinkedIn,14,1190
+2424,Diversity Job,6,2419
+2425,Indeed,10,949
+2426,Diversity Job,3,2419
+2428,LinkedIn,5,2419
+2429,LinkedIn,10,2419
+243,Google Search,6,2419
+2430,LinkedIn,5,949
+2431,Indeed,10,1190
+2432,Diversity Job,5,2419
+2434,LinkedIn,23,369
+2435,Diversity Job,1,1190
+2436,Indeed,23,3889
+2437,LinkedIn,3,2419
+2438,Indeed,21,949
+2439,LinkedIn,5,3398
+244,Indeed,1,2419
+2440,LinkedIn,5,949
+2441,Indeed,3,369
+2442,LinkedIn,1,949
+2443,LinkedIn,6,2419
+2444,Website,10,2419
+2446,Diversity Job,10,4130
+2447,Employee Referral,1,949
+2448,Google Search,10,949
+2449,CareerBuilder,2,949
+245,Diversity Job,14,2419
+2450,LinkedIn,0,949
+2451,Indeed,3,369
+2452,Indeed,5,458
+2454,Employee Referral,4,2419
+2455,Google Search,21,369
+2456,Google Search,5,2419
+2458,Google Search,2,369
+2459,Employee Referral,4,949
+246,Indeed,10,2419
+2460,Indeed,5,949
+2461,Diversity Job,6,1272
+2462,Indeed,2,3309
+2463,Indeed,3,2419
+2465,LinkedIn,5,949
+2466,Google Search,11,949
+2467,Google Search,5,458
+2468,Indeed,0,949
+2469,Indeed,6,2419
+247,Diversity Job,1,2419
+2471,Employee Referral,1,949
+2472,Employee Referral,7,2868
+2473,LinkedIn,7,2868
+2474,Indeed,1,949
+2475,Website,1,949
+2477,Indeed,1,949
+2479,Indeed,5,2419
+248,Google Search,3,949
+2480,Diversity Job,15,949
+2481,Google Search,3,949
+2483,LinkedIn,2,369
+2484,LinkedIn,1,1190
+2485,Google Search,5,2419
+2486,LinkedIn,1,2419
+2487,LinkedIn,12,2419
+2488,Employee Referral,2,949
+2489,Website,5,2419
+249,CareerBuilder,10,2419
+2490,CareerBuilder,2,369
+2491,Indeed,12,949
+2492,Diversity Job,5,458
+2493,Diversity Job,10,2419
+2494,Employee Referral,10,949
+2495,LinkedIn,10,2419
+2496,LinkedIn,5,458
+2497,Indeed,4,369
+2498,LinkedIn,2,2419
+2499,LinkedIn,4,2419
+25,Google Search,10,2419
+250,LinkedIn,6,949
+2500,Google Search,0,2419
+2502,Indeed,11,1190
+2503,LinkedIn,7,2868
+2504,Indeed,10,949
+2505,Indeed,2,949
+2507,Indeed,3,949
+2508,LinkedIn,22,949
+251,LinkedIn,17,2419
+2512,Indeed,5,458
+2513,Indeed,10,949
+2514,Other,16,949
+2515,Indeed,5,2419
+2516,Indeed,22,949
+2517,LinkedIn,7,2868
+2519,Diversity Job,3,369
+252,Google Search,13,2419
+2520,LinkedIn,3,369
+2521,Employee Referral,4,949
+2522,Indeed,5,458
+2523,LinkedIn,2,2419
+2524,Employee Referral,0,2419
+2525,Website,1,2419
+2526,Employee Referral,2,2419
+2528,LinkedIn,1,1190
+2530,Diversity Job,5,458
+2531,CareerBuilder,11,949
+2532,Indeed,0,1190
+2533,Employee Referral,6,2419
+2534,LinkedIn,2,369
+2536,Google Search,3,949
+2537,Diversity Job,7,1398
+2538,LinkedIn,0,1190
+2539,LinkedIn,2,2419
+254,LinkedIn,3,2419
+2540,LinkedIn,19,2419
+2542,Employee Referral,1,949
+2543,Employee Referral,16,949
+2544,LinkedIn,22,2419
+2545,LinkedIn,1,2419
+2546,Indeed,8,3438
+2547,LinkedIn,7,2868
+2548,Indeed,2,2419
+2549,Google Search,5,2419
+255,Employee Referral,4,3309
+2550,LinkedIn,1,2419
+2551,LinkedIn,1,4130
+2552,Employee Referral,1,2419
+2553,LinkedIn,10,2419
+2554,Indeed,10,2419
+2555,LinkedIn,5,1928
+2556,Indeed,3,3889
+2557,Google Search,5,2419
+2558,LinkedIn,3,3309
+256,Website,1,2419
+2560,Employee Referral,10,2419
+2561,Diversity Job,19,2419
+2562,Indeed,1,949
+2563,Diversity Job,8,3438
+2564,Diversity Job,22,949
+2565,Diversity Job,2,369
+2566,Google Search,5,949
+2568,Google Search,4,2419
+2569,Employee Referral,5,2419
+257,CareerBuilder,10,2419
+2570,Google Search,13,949
+2571,Google Search,5,458
+2572,LinkedIn,4,949
+2573,Google Search,2,369
+2575,Indeed,4,949
+2576,CareerBuilder,10,1190
+2579,Diversity Job,3,3889
+258,Indeed,1,2419
+2580,Indeed,5,458
+2581,Google Search,15,2419
+2582,Diversity Job,2,2419
+2583,Google Search,8,3438
+2584,Diversity Job,0,2419
+2585,Google Search,10,2419
+2586,Employee Referral,20,2419
+2587,Indeed,1,1190
+2588,Google Search,4,2419
+2589,Indeed,5,2419
+259,Diversity Job,3,2419
+2590,Indeed,5,458
+2591,LinkedIn,0,2660
+2592,LinkedIn,1,4130
+2593,Indeed,5,2419
+2594,Google Search,5,2419
+2595,Indeed,4,369
+2596,Indeed,5,2419
+2597,LinkedIn,14,2660
+2598,Employee Referral,8,3438
+2599,Indeed,7,2868
+26,LinkedIn,10,2419
+260,Diversity Job,3,2419
+2600,Indeed,5,949
+2601,Indeed,5,2419
+2602,Google Search,10,949
+2603,Indeed,4,3309
+2604,Employee Referral,1,2419
+2605,Employee Referral,10,2419
+2607,CareerBuilder,1,2419
+2608,Indeed,10,2419
+2609,Indeed,2,949
+261,Employee Referral,7,2868
+2610,Indeed,4,2419
+2612,Employee Referral,10,2419
+2613,Indeed,6,2419
+2614,LinkedIn,10,1190
+2615,Indeed,1,1190
+2616,LinkedIn,20,949
+2617,Indeed,20,949
+2618,Indeed,11,949
+2619,CareerBuilder,5,2419
+262,LinkedIn,10,2660
+2620,Indeed,4,2419
+2621,Google Search,5,2419
+2622,Indeed,10,949
+2623,Indeed,11,2419
+2624,Indeed,2,369
+2626,Indeed,2,949
+2627,CareerBuilder,17,949
+2628,Employee Referral,1,949
+2629,Indeed,15,2419
+263,LinkedIn,2,2419
+2630,Indeed,2,2419
+2631,Google Search,8,3438
+2632,Google Search,4,2419
+2633,Google Search,5,458
+2634,LinkedIn,13,2419
+2635,Employee Referral,2,949
+2637,Google Search,10,2419
+2639,Indeed,6,2419
+264,Indeed,6,1272
+2640,LinkedIn,1,949
+2641,LinkedIn,2,2419
+2642,Google Search,7,2868
+2643,Indeed,18,3309
+2644,LinkedIn,14,2419
+2645,Google Search,16,2419
+2646,Google Search,5,2419
+2648,Employee Referral,4,2419
+2649,Indeed,2,369
+265,LinkedIn,1,2419
+2650,Other,6,2419
+2651,CareerBuilder,1,2419
+2653,Employee Referral,4,949
+2654,LinkedIn,13,2419
+2655,LinkedIn,2,949
+2656,Diversity Job,22,2419
+2657,CareerBuilder,10,1190
+2658,Diversity Job,20,949
+266,LinkedIn,20,3309
+2660,Indeed,15,369
+2661,Indeed,5,949
+2662,LinkedIn,4,369
+2664,Diversity Job,10,2419
+2665,Diversity Job,6,1272
+2666,Employee Referral,6,949
+2667,LinkedIn,5,458
+2668,LinkedIn,2,369
+2669,Google Search,10,1190
+267,Google Search,8,3438
+2670,LinkedIn,5,2419
+2672,CareerBuilder,4,949
+2673,Indeed,5,949
+2674,LinkedIn,3,3889
+2675,Google Search,20,369
+2677,CareerBuilder,4,949
+2678,CareerBuilder,5,949
+2679,Google Search,7,4338
+268,Website,2,2419
+2680,CareerBuilder,6,949
+2682,Indeed,4,3309
+2683,Indeed,6,2419
+2684,LinkedIn,10,1190
+2685,Indeed,0,949
+2686,LinkedIn,8,3438
+2687,LinkedIn,2,369
+2688,Indeed,7,2868
+2689,Google Search,1,1190
+269,Indeed,20,2419
+2690,Indeed,1,949
+2692,LinkedIn,7,2868
+2695,LinkedIn,5,2419
+2696,CareerBuilder,2,949
+2697,Indeed,4,2419
+2698,LinkedIn,10,2419
+27,Diversity Job,5,2419
+270,LinkedIn,10,2419
+2700,Google Search,1,949
+2701,Indeed,25,949
+2702,Indeed,3,3889
+2703,Indeed,4,949
+2704,Google Search,5,2419
+2705,Google Search,12,1190
+2706,LinkedIn,0,1190
+2707,Indeed,4,369
+2708,Diversity Job,14,1190
+2709,Employee Referral,10,2419
+271,Indeed,4,2419
+2711,Indeed,22,3889
+2712,LinkedIn,2,369
+2713,Website,1,1190
+2715,Indeed,10,949
+2718,Google Search,5,458
+2719,Website,3,2419
+2720,Website,2,369
+2721,Indeed,1,2419
+2722,LinkedIn,5,458
+2723,Diversity Job,1,2419
+2724,LinkedIn,1,1190
+2725,Indeed,1,1190
+2727,Diversity Job,12,949
+2728,Indeed,22,369
+2730,LinkedIn,1,949
+2732,LinkedIn,1,2419
+2733,Google Search,1,2419
+2734,Indeed,2,949
+2735,LinkedIn,4,2419
+2736,CareerBuilder,4,2419
+2737,Website,2,2419
+2738,Diversity Job,15,3309
+2744,Indeed,10,949
+2745,Diversity Job,27,369
+2746,CareerBuilder,21,949
+2747,LinkedIn,17,369
+2748,LinkedIn,5,949
+2749,LinkedIn,6,2419
+275,LinkedIn,7,2868
+2750,Indeed,1,2419
+2752,Employee Referral,1,1190
+2753,LinkedIn,4,2419
+2754,Diversity Job,5,949
+2755,Indeed,1,2419
+2756,LinkedIn,10,1190
+2757,Indeed,1,949
+2758,LinkedIn,11,2419
+2759,LinkedIn,15,949
+276,Indeed,18,2419
+2761,LinkedIn,5,949
+2762,LinkedIn,4,949
+2763,Website,10,1190
+2764,Google Search,6,3889
+2765,Diversity Job,1,2419
+2766,Employee Referral,13,1190
+2767,Google Search,5,2419
+2769,LinkedIn,0,949
+277,Diversity Job,5,949
+2770,Indeed,4,2419
+2771,Indeed,11,1190
+2773,Employee Referral,22,2419
+2774,Google Search,10,949
+2775,Google Search,11,2419
+2776,Website,10,949
+2777,Google Search,11,1190
+2778,Employee Referral,4,949
+2779,Indeed,3,369
+278,Google Search,21,369
+2780,Diversity Job,5,458
+2781,Indeed,37,949
+2782,Indeed,3,949
+2785,Google Search,1,1190
+2786,Google Search,16,949
+2787,Indeed,1,1190
+2788,Indeed,3,949
+2789,Indeed,8,3438
+279,Indeed,2,2419
+2790,Employee Referral,6,1272
+2791,Employee Referral,2,949
+2792,LinkedIn,0,949
+2793,Indeed,13,949
+2795,Google Search,5,2419
+2796,Indeed,5,3889
+2797,Diversity Job,1,1190
+2798,Indeed,5,458
+2799,Diversity Job,11,1190
+28,Indeed,17,3309
+2801,CareerBuilder,1,2419
+2802,LinkedIn,25,2419
+2803,LinkedIn,10,949
+2805,LinkedIn,5,949
+2806,LinkedIn,20,2419
+2807,Employee Referral,7,2868
+2808,Website,5,458
+2809,CareerBuilder,40,369
+281,Other,22,949
+2810,Indeed,0,949
+2811,Diversity Job,2,369
+2812,Diversity Job,15,949
+2813,Employee Referral,3,369
+2814,LinkedIn,2,2419
+2815,LinkedIn,2,2419
+2817,LinkedIn,8,3438
+2819,Google Search,4,949
+282,Indeed,2,369
+2820,Website,15,2419
+2821,Indeed,2,369
+2822,LinkedIn,11,2419
+2823,Indeed,5,2419
+2824,Indeed,6,3889
+2825,Google Search,3,949
+2826,Indeed,5,458
+2828,Indeed,3,2419
+2829,Diversity Job,5,458
+2831,Indeed,5,2419
+2832,Indeed,1,2419
+2833,Other,20,2419
+2834,Indeed,10,1190
+2836,LinkedIn,17,3309
+2838,Diversity Job,10,949
+2839,LinkedIn,1,949
+284,LinkedIn,8,3438
+2840,Employee Referral,1,1190
+2841,Indeed,12,949
+2842,LinkedIn,4,369
+2843,Employee Referral,2,949
+2844,Website,2,949
+2845,Employee Referral,5,458
+2846,Google Search,5,949
+2847,LinkedIn,1,2419
+2848,Employee Referral,5,2419
+285,CareerBuilder,1,949
+2852,Employee Referral,5,949
+2853,LinkedIn,5,949
+2854,Website,0,949
+2856,Diversity Job,12,1190
+2857,LinkedIn,5,3889
+2858,LinkedIn,2,949
+2859,LinkedIn,3,949
+286,Diversity Job,5,2419
+2860,Google Search,1,949
+2861,Employee Referral,24,949
+2862,Employee Referral,2,369
+2863,LinkedIn,4,369
+2864,LinkedIn,3,369
+2865,Indeed,4,949
+2866,LinkedIn,3,369
+2867,Indeed,4,369
+2868,Google Search,8,3438
+2869,LinkedIn,20,949
+287,LinkedIn,22,949
+2870,LinkedIn,24,2419
+2873,Indeed,33,949
+2875,Indeed,1,949
+2876,Google Search,5,2419
+2877,LinkedIn,20,2419
+2878,LinkedIn,8,3438
+2879,Employee Referral,6,2419
+288,Employee Referral,8,3438
+2880,Diversity Job,5,2419
+2881,Indeed,1,1190
+2883,Diversity Job,2,2419
+2884,Diversity Job,7,2868
+2885,Google Search,5,949
+2886,On-line Web a,7,2868
+2887,Google Search,1,1190
+2888,Employee Referral,10,1190
+2889,Google Search,4,2419
+289,Indeed,1,949
+2890,Google Search,8,3438
+2891,LinkedIn,3,2419
+2892,Google Search,4,2419
+2893,Indeed,14,2419
+2894,Indeed,11,2419
+2895,CareerBuilder,7,2868
+2896,Google Search,10,2419
+2897,LinkedIn,5,2419
+2898,Diversity Job,1,2419
+2899,Indeed,6,1272
+29,Google Search,1,2419
+290,LinkedIn,2,3889
+2900,Google Search,6,2419
+2901,Diversity Job,19,2419
+2902,Google Search,6,1272
+2903,Diversity Job,13,2419
+2904,Google Search,3,369
+2905,Employee Referral,10,4130
+2906,Indeed,16,2419
+2907,Google Search,5,1928
+2908,Indeed,1,949
+291,Employee Referral,2,949
+2910,LinkedIn,11,1190
+2911,LinkedIn,10,2419
+2912,Indeed,4,2419
+2913,Google Search,2,2419
+2914,Indeed,22,2419
+2915,Indeed,2,2419
+2916,LinkedIn,7,2868
+2917,Employee Referral,5,458
+2918,Indeed,17,3309
+292,Website,5,3889
+2920,Indeed,33,2419
+2922,Indeed,3,369
+2923,Employee Referral,3,369
+2924,Employee Referral,3,369
+2925,LinkedIn,1,1190
+2927,Indeed,24,2419
+2928,Indeed,2,2419
+2929,Indeed,2,2419
+293,Employee Referral,4,369
+2930,LinkedIn,11,2419
+2931,Employee Referral,3,2419
+2932,Indeed,3,3309
+2933,LinkedIn,1,4130
+2934,Indeed,19,2419
+2935,LinkedIn,6,1272
+2936,Indeed,3,949
+2937,Indeed,3,949
+2938,CareerBuilder,4,949
+2940,Google Search,21,2419
+2941,Indeed,1,1190
+2942,Indeed,5,2419
+2943,Indeed,5,2419
+2944,Website,8,3438
+2945,Indeed,6,2419
+2946,CareerBuilder,7,2868
+2947,Employee Referral,0,2419
+2948,Indeed,0,2419
+295,LinkedIn,10,949
+2950,Google Search,6,2419
+2951,Google Search,20,2419
+2952,Google Search,15,2419
+2953,LinkedIn,36,2419
+2954,Employee Referral,10,2419
+2955,Indeed,5,2419
+2956,Google Search,5,2419
+2957,Google Search,3,2419
+2958,Indeed,5,2419
+296,Employee Referral,4,369
+2960,LinkedIn,8,3438
+2961,Google Search,6,2419
+2962,Indeed,10,1190
+2963,LinkedIn,5,949
+2964,Google Search,20,949
+2965,Google Search,10,2419
+2966,Google Search,10,2419
+2967,Employee Referral,5,3889
+2968,Indeed,17,369
+2969,Other,1,2419
+297,Diversity Job,7,1398
+2970,CareerBuilder,2,3309
+2971,LinkedIn,3,2419
+2972,Employee Referral,5,2419
+2973,LinkedIn,3,2419
+2975,Diversity Job,2,2419
+2976,CareerBuilder,8,3438
+2977,Diversity Job,4,369
+2978,Indeed,20,3309
+2979,Indeed,0,2419
+298,CareerBuilder,2,369
+2980,Indeed,11,2660
+2981,LinkedIn,1,2419
+2982,Indeed,4,2419
+2983,Diversity Job,22,949
+2984,Diversity Job,0,1190
+2985,Employee Referral,8,3438
+2986,LinkedIn,8,3438
+2987,LinkedIn,18,1839
+2989,LinkedIn,13,1190
+299,Indeed,2,949
+2990,Employee Referral,10,2419
+2991,CareerBuilder,5,2419
+2992,Indeed,5,2419
+2993,LinkedIn,2,3309
+2994,Google Search,24,2419
+2995,LinkedIn,2,3309
+2996,CareerBuilder,10,2419
+2997,CareerBuilder,21,369
+2998,Google Search,8,3438
+2999,CareerBuilder,7,2868
+3,LinkedIn,5,2419
+30,Diversity Job,2,3309
+300,Employee Referral,1,949
+3000,Indeed,8,3438
+3001,Indeed,4,2419
+3002,Indeed,13,2419
+3003,LinkedIn,5,2419
+3005,LinkedIn,7,2868
+3006,LinkedIn,3,949
+3007,Indeed,10,2419
+3008,Google Search,10,2419
+3009,Indeed,21,2419
+301,LinkedIn,10,1190
+3010,Indeed,1,949
+3012,Employee Referral,3,949
+3014,LinkedIn,5,949
+3015,CareerBuilder,4,949
+3016,Indeed,1,2419
+3017,LinkedIn,10,1190
+3018,CareerBuilder,4,2419
+3019,Google Search,7,2868
+302,Website,1,1190
+3021,Indeed,10,949
+3022,Indeed,8,3438
+3023,Google Search,6,1272
+3024,Google Search,11,2419
+3025,LinkedIn,11,2419
+3026,Indeed,7,2868
+3027,Diversity Job,16,369
+3028,Employee Referral,4,2419
+3029,Employee Referral,5,949
+303,Google Search,0,949
+3030,Indeed,0,1190
+3031,LinkedIn,1,2419
+3032,Website,4,369
+3033,Google Search,3,369
+3034,Indeed,8,3438
+3035,CareerBuilder,0,1190
+3036,CareerBuilder,7,2868
+3037,Google Search,2,369
+3039,Website,1,1190
+304,Diversity Job,34,369
+3040,Indeed,3,949
+3042,Diversity Job,13,949
+3043,LinkedIn,3,949
+3044,Indeed,7,2868
+3045,Website,3,949
+3047,Indeed,5,949
+3048,LinkedIn,1,1190
+3049,LinkedIn,8,3438
+305,LinkedIn,10,949
+3050,LinkedIn,4,2419
+3051,LinkedIn,6,949
+3052,Google Search,2,949
+3054,LinkedIn,3,949
+3055,CareerBuilder,1,2419
+3056,Website,5,458
+3057,Diversity Job,7,4338
+3058,CareerBuilder,5,458
+3059,Indeed,7,2868
+306,LinkedIn,6,2419
+3060,LinkedIn,2,369
+3061,LinkedIn,5,949
+3062,Diversity Job,5,458
+3063,Indeed,5,2419
+3064,Diversity Job,1,2419
+3065,CareerBuilder,6,1272
+3066,LinkedIn,2,2419
+3067,LinkedIn,10,2419
+3068,LinkedIn,1,1190
+3069,Indeed,18,2419
+3070,Diversity Job,5,2419
+3071,Employee Referral,5,2419
+3072,LinkedIn,1,1190
+3073,Diversity Job,25,369
+3074,Indeed,1,1190
+3076,Indeed,3,949
+3077,LinkedIn,13,2419
+3078,LinkedIn,3,369
+3079,Indeed,5,458
+308,Google Search,2,2419
+3081,LinkedIn,13,2419
+3082,Website,4,2419
+3083,Google Search,21,2419
+3084,Diversity Job,7,2868
+3085,Employee Referral,5,458
+3086,Google Search,10,2419
+3087,CareerBuilder,10,2419
+3088,LinkedIn,2,2419
+3089,Indeed,5,2419
+309,Employee Referral,5,2419
+3090,Indeed,2,2419
+3091,LinkedIn,5,2419
+3092,Employee Referral,5,458
+3093,Google Search,5,458
+3094,Google Search,29,949
+3095,Website,10,2660
+3096,Google Search,6,3889
+3097,Employee Referral,5,3889
+3098,Indeed,2,2419
+3099,Diversity Job,1,1190
+31,Google Search,3,2419
+310,Employee Referral,6,3889
+3100,Indeed,20,3309
+3101,Indeed,3,949
+3102,CareerBuilder,5,2419
+3103,LinkedIn,10,2419
+3104,Google Search,2,2419
+3105,Google Search,1,2419
+3107,Indeed,1,2419
+3108,Indeed,27,3309
+3109,Employee Referral,11,1190
+3110,Employee Referral,18,2419
+3111,LinkedIn,5,2419
+3112,Indeed,3,369
+3113,Website,5,2419
+3114,Google Search,1,949
+3116,Diversity Job,3,2419
+3117,Indeed,13,2419
+3118,Diversity Job,7,2868
+3119,Google Search,4,3309
+312,LinkedIn,10,949
+3120,CareerBuilder,3,2419
+3121,LinkedIn,8,3438
+3122,LinkedIn,1,949
+3123,Google Search,3,3309
+3124,LinkedIn,2,949
+3125,LinkedIn,10,949
+3126,Employee Referral,2,2419
+3128,CareerBuilder,10,2419
+3129,Indeed,14,2419
+313,Indeed,4,2419
+3130,Diversity Job,11,2419
+3131,Diversity Job,20,2419
+3132,Employee Referral,8,3438
+3133,LinkedIn,6,2419
+3134,LinkedIn,10,2419
+3135,Indeed,8,3438
+3136,LinkedIn,7,2868
+3137,LinkedIn,3,2419
+3138,Google Search,6,2419
+3139,Website,5,2419
+314,LinkedIn,2,949
+3140,Indeed,0,2419
+3141,LinkedIn,1,2419
+3142,Indeed,8,3438
+3143,Indeed,0,2419
+3144,Google Search,5,2419
+3145,Indeed,10,949
+3146,LinkedIn,1,1190
+3147,Indeed,6,2419
+3148,Diversity Job,2,2419
+3149,Google Search,18,2419
+315,Indeed,8,3438
+3151,Indeed,10,1190
+3152,Other,4,2419
+3153,Indeed,2,369
+3154,Indeed,1,2419
+3155,LinkedIn,6,2419
+3156,CareerBuilder,31,369
+3157,Diversity Job,6,1272
+3158,LinkedIn,5,2419
+3159,Employee Referral,1,1190
+316,Google Search,4,3889
+3160,Indeed,32,369
+3161,LinkedIn,7,2868
+3162,Employee Referral,6,2419
+3163,Website,1,2419
+3164,Employee Referral,6,1272
+3165,Google Search,3,2419
+3166,LinkedIn,3,2419
+3168,Diversity Job,5,458
+3169,CareerBuilder,3,369
+317,LinkedIn,4,949
+3170,Indeed,1,2419
+3171,Employee Referral,10,2419
+3172,LinkedIn,1,2419
+3175,Diversity Job,3,2419
+3176,LinkedIn,2,369
+3177,LinkedIn,8,3438
+3178,LinkedIn,4,3309
+3179,Google Search,3,3309
+318,LinkedIn,5,949
+3180,Employee Referral,2,2419
+3181,Employee Referral,2,2419
+3182,LinkedIn,5,458
+3183,LinkedIn,6,2419
+3184,Indeed,1,2419
+3185,LinkedIn,14,949
+3186,Indeed,10,2419
+3187,Google Search,1,2419
+3188,LinkedIn,3,2419
+3189,LinkedIn,10,949
+319,Employee Referral,4,2419
+3190,Employee Referral,6,2419
+3191,LinkedIn,17,2419
+3192,Indeed,13,949
+3194,Indeed,3,2419
+3195,Google Search,4,369
+3196,LinkedIn,1,2419
+3197,LinkedIn,10,2419
+3198,Employee Referral,1,2419
+3199,Diversity Job,3,2419
+32,Diversity Job,5,2419
+320,LinkedIn,5,458
+3200,Indeed,3,2419
+3201,Diversity Job,7,2868
+3202,Diversity Job,10,1190
+3203,Diversity Job,2,2419
+3204,Google Search,6,1272
+3205,On-line Web a,1,2419
+3206,Google Search,20,3309
+3207,Employee Referral,8,3438
+3208,Google Search,2,2419
+3209,Google Search,20,949
+321,Indeed,15,369
+3210,LinkedIn,10,949
+3211,Google Search,4,2419
+3215,Google Search,7,2868
+3216,LinkedIn,18,2419
+3217,Diversity Job,5,2419
+3218,Indeed,21,3309
+3219,Google Search,2,949
+322,LinkedIn,6,1272
+3221,Google Search,22,2419
+3222,Diversity Job,2,369
+3224,Employee Referral,8,3438
+3225,Indeed,1,2419
+3226,Google Search,5,2419
+3227,Indeed,22,2419
+3228,Indeed,8,3438
+3229,LinkedIn,1,2419
+323,Indeed,3,3889
+3230,LinkedIn,2,2419
+3231,Indeed,2,949
+3232,Google Search,5,2419
+3233,Indeed,4,3309
+3235,LinkedIn,10,949
+3236,Employee Referral,4,369
+3237,Indeed,7,2868
+3238,Indeed,2,3309
+3239,Indeed,2,2419
+324,Google Search,2,3889
+3240,Google Search,1,949
+3241,Indeed,10,1190
+3242,Employee Referral,1,1190
+3243,Employee Referral,0,2419
+3244,LinkedIn,34,3309
+3245,CareerBuilder,10,2419
+3246,Indeed,6,2419
+3248,Indeed,2,949
+3249,LinkedIn,5,949
+325,LinkedIn,8,3438
+3250,Employee Referral,6,949
+3252,LinkedIn,10,949
+3253,Indeed,4,3889
+3254,LinkedIn,2,2419
+3255,Indeed,8,3438
+3256,Indeed,4,2419
+3257,CareerBuilder,4,2419
+3258,Indeed,5,2419
+3259,Google Search,4,2419
+326,LinkedIn,3,949
+3260,Indeed,5,458
+3261,Indeed,15,369
+3262,Indeed,6,1272
+3263,Website,3,2419
+3264,Indeed,2,3889
+3265,CareerBuilder,8,3438
+3266,Employee Referral,3,2419
+3267,Indeed,24,3889
+3268,Indeed,0,1190
+3269,Google Search,1,1190
+327,Employee Referral,24,2419
+3270,Google Search,5,2419
+3271,Google Search,4,2419
+3272,LinkedIn,1,1190
+3273,Employee Referral,13,2419
+3274,Indeed,3,2419
+3275,Google Search,26,2419
+3277,Indeed,10,3889
+3278,LinkedIn,31,2419
+3279,LinkedIn,2,369
+328,Diversity Job,0,1190
+3280,Google Search,4,369
+3281,Indeed,2,2419
+3282,LinkedIn,5,2419
+3283,Google Search,14,2419
+3284,Google Search,1,1190
+3285,Google Search,0,949
+3286,Employee Referral,1,2419
+3288,Other,4,3309
+3289,CareerBuilder,5,949
+329,Indeed,1,1190
+3292,LinkedIn,4,2419
+3294,Diversity Job,8,3438
+3296,Diversity Job,3,369
+3297,Indeed,8,3438
+3298,Indeed,0,1190
+3299,Indeed,20,369
+33,Google Search,3,2419
+330,Diversity Job,5,2419
+3300,LinkedIn,5,458
+3301,Indeed,4,949
+3303,Diversity Job,6,1272
+3304,Employee Referral,18,369
+3305,LinkedIn,5,2419
+3306,LinkedIn,5,2419
+3307,Google Search,5,458
+3308,LinkedIn,5,2419
+3309,Employee Referral,5,458
+331,Diversity Job,4,2419
+3311,Indeed,1,4130
+3312,LinkedIn,5,949
+3313,Google Search,2,949
+3314,LinkedIn,3,949
+3315,CareerBuilder,2,369
+3316,CareerBuilder,5,2419
+3317,Google Search,5,458
+3318,CareerBuilder,17,2419
+3319,Indeed,10,2660
+332,Diversity Job,1,1190
+3320,Indeed,3,2419
+3321,Indeed,5,3398
+3322,LinkedIn,4,3309
+3323,Indeed,5,3889
+3324,LinkedIn,10,2419
+3325,LinkedIn,2,3309
+3326,Indeed,5,949
+3327,Google Search,6,2419
+3328,Indeed,3,369
+3329,Indeed,2,2419
+333,Google Search,13,2419
+3330,LinkedIn,13,2419
+3331,Employee Referral,5,2419
+3332,LinkedIn,12,2419
+3333,LinkedIn,5,2419
+3335,Indeed,10,2419
+3336,LinkedIn,31,3889
+3337,CareerBuilder,5,2419
+3338,Google Search,4,3309
+3339,Indeed,1,2419
+334,On-line Web a,3,2419
+3340,Indeed,4,2419
+3341,Indeed,8,3438
+3342,Google Search,4,369
+3343,Google Search,1,1190
+3344,LinkedIn,1,1190
+3345,Indeed,2,2419
+3346,Diversity Job,1,2419
+3347,Employee Referral,16,2419
+3348,Employee Referral,3,2419
+3349,Indeed,3,2419
+335,Google Search,26,2419
+3350,LinkedIn,7,2868
+3351,Website,2,2419
+3352,Google Search,2,2419
+3353,Indeed,1,2419
+3354,CareerBuilder,1,2419
+3355,CareerBuilder,5,1928
+3356,Google Search,3,3309
+3357,Website,6,949
+3359,Indeed,10,949
+3360,LinkedIn,26,2419
+3361,Diversity Job,0,949
+3364,Website,15,369
+3365,Diversity Job,3,369
+3366,Indeed,1,949
+3367,LinkedIn,1,949
+3369,LinkedIn,18,2419
+337,Google Search,10,2419
+3370,LinkedIn,11,949
+3371,Google Search,1,2419
+3372,Indeed,1,2419
+3374,CareerBuilder,1,1190
+3375,Website,8,3438
+3376,Diversity Job,16,2419
+3377,CareerBuilder,5,949
+3378,Indeed,14,1190
+338,Google Search,31,949
+3380,LinkedIn,3,2419
+3383,Diversity Job,1,1190
+3384,CareerBuilder,17,949
+3386,LinkedIn,5,458
+3387,LinkedIn,10,1190
+3389,Diversity Job,1,949
+339,LinkedIn,2,369
+3390,Employee Referral,19,949
+3392,Diversity Job,3,949
+3393,Indeed,10,1190
+3395,Indeed,3,949
+3396,LinkedIn,5,2419
+3397,LinkedIn,5,458
+3398,Indeed,6,1272
+3399,LinkedIn,18,369
+340,Google Search,4,369
+3400,LinkedIn,2,2419
+3403,Diversity Job,5,458
+3404,Employee Referral,12,2419
+3405,Google Search,2,949
+3406,CareerBuilder,8,3438
+3407,LinkedIn,4,3309
+3408,Indeed,4,369
+3409,Indeed,4,949
+341,Indeed,2,949
+3410,LinkedIn,0,1190
+3411,Employee Referral,10,1190
+3412,Google Search,16,949
+3413,Google Search,8,3438
+3414,Website,1,949
+3415,Google Search,3,949
+3417,Indeed,4,2419
+3419,Indeed,15,369
+342,Indeed,5,949
+3420,Indeed,2,2419
+3421,CareerBuilder,21,369
+3422,LinkedIn,3,949
+3423,Google Search,3,369
+3424,Google Search,1,949
+3425,Indeed,1,1190
+3426,Indeed,5,2419
+3427,Indeed,1,2660
+3428,Employee Referral,8,3438
+3429,Employee Referral,21,949
+343,CareerBuilder,14,949
+3430,LinkedIn,1,2419
+3431,Indeed,2,949
+3432,Website,32,949
+3433,Google Search,12,949
+3435,Diversity Job,17,369
+3436,Indeed,21,369
+3437,Diversity Job,2,369
+3439,CareerBuilder,8,3438
+344,Google Search,1,1190
+3440,LinkedIn,15,369
+3441,LinkedIn,6,949
+3442,Google Search,6,2419
+3443,LinkedIn,15,369
+3444,LinkedIn,1,2419
+3445,Employee Referral,3,369
+3446,Website,1,2419
+3447,CareerBuilder,1,2419
+3448,Indeed,2,3309
+3449,Diversity Job,8,3438
+345,LinkedIn,0,949
+3450,Diversity Job,4,949
+3452,LinkedIn,5,2419
+3453,LinkedIn,2,2419
+3455,LinkedIn,5,949
+3456,LinkedIn,14,949
+3458,Website,1,1190
+3459,Indeed,2,369
+346,Diversity Job,1,2419
+3460,LinkedIn,1,949
+3461,Indeed,16,369
+3462,Indeed,10,4130
+3463,Google Search,10,2419
+3464,Indeed,5,2419
+3465,LinkedIn,6,3889
+3466,Indeed,10,1190
+3467,Diversity Job,19,949
+3468,Google Search,11,1190
+3469,Indeed,3,369
+3470,Indeed,3,949
+3471,Other,8,3438
+3472,Indeed,20,949
+3473,Indeed,3,369
+3475,CareerBuilder,13,2419
+3477,LinkedIn,6,1272
+3478,Employee Referral,1,2419
+348,Google Search,4,369
+3480,LinkedIn,1,1190
+3481,Employee Referral,2,2419
+3482,Website,22,949
+3483,Employee Referral,1,949
+3484,Google Search,0,3889
+3485,LinkedIn,3,369
+3486,Employee Referral,0,1190
+3487,Diversity Job,5,458
+3488,CareerBuilder,15,949
+349,Diversity Job,5,949
+3490,Employee Referral,8,3438
+3491,LinkedIn,7,4338
+3493,Google Search,12,949
+3494,Diversity Job,1,2419
+3495,LinkedIn,8,3438
+3496,LinkedIn,18,369
+3497,LinkedIn,20,949
+3498,Google Search,2,949
+3499,Employee Referral,5,2419
+35,Indeed,2,2419
+3500,Employee Referral,11,2419
+3501,LinkedIn,2,949
+3502,LinkedIn,5,458
+3503,Indeed,5,949
+3505,Indeed,3,3309
+3506,Google Search,7,2868
+3507,LinkedIn,1,1190
+3508,LinkedIn,10,1190
+3509,Employee Referral,7,2868
+3510,LinkedIn,3,369
+3511,Indeed,0,949
+3512,LinkedIn,5,949
+3513,Indeed,1,949
+3514,Google Search,2,369
+3515,LinkedIn,6,2419
+3516,LinkedIn,4,2419
+3517,Employee Referral,6,1272
+3518,Diversity Job,5,2419
+3519,Indeed,11,949
+352,Google Search,4,949
+3520,Diversity Job,18,949
+3521,Diversity Job,21,369
+3522,Diversity Job,6,949
+3523,Google Search,8,3438
+3524,On-line Web a,4,369
+3525,Google Search,1,2419
+3526,Employee Referral,8,3438
+3527,Google Search,10,2419
+3528,Google Search,1,949
+3529,LinkedIn,7,2868
+3530,Google Search,13,2419
+3531,Indeed,2,2419
+3532,Indeed,4,369
+3533,CareerBuilder,1,949
+3534,Google Search,5,2419
+3535,LinkedIn,10,2419
+3536,Diversity Job,1,949
+3537,Indeed,3,2419
+3538,Google Search,14,2419
+3539,Diversity Job,2,2419
+354,Indeed,8,3438
+3541,Diversity Job,7,4338
+3542,Google Search,5,2419
+3543,Employee Referral,0,2419
+3544,Indeed,26,2419
+3545,Google Search,0,3889
+3546,Indeed,5,949
+3547,Indeed,1,2419
+3548,LinkedIn,4,369
+3549,LinkedIn,0,1190
+3550,Indeed,2,949
+3551,Google Search,6,949
+3552,Indeed,4,949
+3555,Employee Referral,10,949
+3556,Indeed,7,1398
+3557,Indeed,10,1190
+3558,Indeed,20,2419
+3559,Google Search,2,2419
+356,Indeed,3,369
+3560,Indeed,6,1272
+3561,Employee Referral,4,949
+3562,Employee Referral,11,1190
+3563,LinkedIn,2,369
+3564,CareerBuilder,8,3438
+3566,Indeed,14,1190
+3567,Indeed,5,2419
+3568,LinkedIn,4,949
+3569,Employee Referral,11,1190
+357,Indeed,8,3438
+3571,LinkedIn,13,949
+3573,LinkedIn,5,949
+3575,Indeed,1,1190
+3576,CareerBuilder,3,2419
+3577,Indeed,10,2419
+3578,Google Search,6,2419
+3579,Indeed,10,4130
+358,LinkedIn,0,1190
+3580,Indeed,6,2419
+3581,Indeed,8,3438
+3582,Website,1,1190
+3583,Indeed,11,1190
+3584,CareerBuilder,1,3889
+3585,Employee Referral,5,2419
+3586,Indeed,6,1272
+3587,Indeed,1,1190
+3588,Google Search,7,2868
+3589,Google Search,1,1190
+359,LinkedIn,20,369
+3590,Google Search,22,2419
+3592,Employee Referral,1,1190
+3593,Indeed,1,4130
+3594,Google Search,1,2419
+3597,LinkedIn,33,949
+3598,LinkedIn,2,949
+3599,Google Search,11,949
+36,Google Search,8,3438
+360,Indeed,5,458
+3600,Indeed,3,369
+3601,LinkedIn,29,2419
+3603,Google Search,11,1190
+3604,Google Search,4,2419
+3605,Employee Referral,25,2419
+3606,Indeed,10,4130
+3607,Other,3,2419
+3608,CareerBuilder,1,2419
+3609,LinkedIn,21,949
+361,Google Search,4,2419
+3610,Employee Referral,16,2419
+3611,LinkedIn,10,2419
+3612,LinkedIn,2,2419
+3614,CareerBuilder,8,3438
+3615,Diversity Job,7,1398
+3616,Indeed,3,369
+3617,Indeed,2,3889
+3618,Indeed,10,2419
+3619,LinkedIn,0,2419
+3620,Indeed,19,369
+3621,Diversity Job,2,2419
+3622,Diversity Job,10,2419
+3623,Employee Referral,5,2419
+3628,Employee Referral,3,2419
+3629,CareerBuilder,5,458
+363,Indeed,6,1272
+3630,Indeed,8,3438
+3632,Google Search,8,3438
+3633,LinkedIn,10,949
+3634,CareerBuilder,19,369
+3635,CareerBuilder,3,2419
+3636,Google Search,3,369
+3637,CareerBuilder,20,2419
+3638,Indeed,19,3309
+364,LinkedIn,18,369
+3640,Indeed,4,2419
+3645,Indeed,33,369
+3647,Indeed,10,1190
+3648,Indeed,3,2419
+3649,LinkedIn,10,1190
+365,Employee Referral,5,2419
+3650,Employee Referral,4,2419
+3651,LinkedIn,15,369
+3652,LinkedIn,10,949
+3653,CareerBuilder,1,2419
+3654,Indeed,5,2419
+3655,LinkedIn,0,2419
+3657,Google Search,6,3889
+3658,Indeed,19,2419
+3659,Indeed,19,949
+366,Indeed,5,2419
+3660,Indeed,5,458
+3661,Google Search,12,949
+3662,Google Search,8,3438
+3663,LinkedIn,1,2419
+3664,Indeed,4,2419
+3665,Diversity Job,4,949
+3666,Employee Referral,14,2419
+3667,Employee Referral,5,2419
+3668,Indeed,10,2419
+3669,LinkedIn,5,2419
+367,Indeed,5,458
+3670,Website,4,2419
+3671,Google Search,6,2419
+3672,Indeed,6,949
+3673,CareerBuilder,5,2419
+3674,CareerBuilder,3,2419
+3675,Google Search,6,2419
+3676,Website,3,2419
+3677,Website,5,3889
+3678,Indeed,20,2419
+3679,LinkedIn,6,949
+368,Indeed,5,2419
+3680,Diversity Job,8,3438
+3681,LinkedIn,4,2419
+3682,Indeed,20,369
+3683,Website,5,2419
+3684,Diversity Job,3,949
+3685,Indeed,2,2419
+3686,LinkedIn,3,3889
+3687,LinkedIn,7,2868
+3688,LinkedIn,10,1190
+3689,LinkedIn,4,369
+369,Google Search,5,1928
+3691,Indeed,20,369
+3693,CareerBuilder,7,2868
+3694,Website,5,949
+3695,Diversity Job,1,1190
+3696,CareerBuilder,3,369
+3697,Indeed,3,949
+3698,LinkedIn,4,369
+3699,LinkedIn,1,1190
+37,Indeed,4,3309
+3701,Indeed,10,1190
+3702,Diversity Job,3,949
+3703,CareerBuilder,6,2419
+3704,LinkedIn,3,369
+3705,LinkedIn,6,1272
+3706,LinkedIn,3,949
+3707,Indeed,20,2419
+3708,Diversity Job,5,2419
+3709,Employee Referral,4,369
+371,Employee Referral,1,1190
+3710,LinkedIn,5,2419
+3711,Diversity Job,4,2419
+3713,LinkedIn,13,2419
+3714,Indeed,7,2868
+3715,LinkedIn,1,2419
+3716,LinkedIn,10,1190
+3718,LinkedIn,3,2419
+3719,LinkedIn,2,2419
+372,Employee Referral,5,2419
+3720,Website,3,2419
+3721,Google Search,2,949
+3722,Diversity Job,2,2419
+3724,Google Search,5,2419
+3725,CareerBuilder,5,2419
+3727,Indeed,3,2419
+3728,Indeed,3,2419
+3729,LinkedIn,5,949
+373,LinkedIn,2,3889
+3731,Google Search,13,949
+3732,Google Search,2,369
+3733,Website,12,3889
+3734,Google Search,1,949
+3735,Employee Referral,1,949
+3736,Indeed,12,2660
+3737,Diversity Job,8,3438
+3738,Indeed,14,2419
+3739,Indeed,3,2419
+374,CareerBuilder,3,2419
+3740,CareerBuilder,5,949
+3741,LinkedIn,15,2419
+3742,Google Search,1,1190
+3743,Google Search,0,1190
+3744,Indeed,1,949
+3745,Indeed,2,949
+3746,Indeed,10,1190
+3747,Employee Referral,5,2419
+3748,Employee Referral,3,369
+3749,LinkedIn,5,2419
+375,Indeed,2,3309
+3750,Indeed,5,2419
+3751,Website,0,2660
+3752,Google Search,1,1190
+3753,Indeed,4,2419
+3754,Diversity Job,3,2419
+3755,Indeed,3,949
+3756,Diversity Job,8,3438
+3757,Google Search,0,2419
+3758,CareerBuilder,5,2419
+3759,LinkedIn,14,1190
+376,Indeed,5,2419
+3761,Google Search,20,369
+3762,LinkedIn,2,369
+3763,LinkedIn,13,2419
+3764,Employee Referral,11,949
+3765,Website,4,2419
+3766,CareerBuilder,5,3889
+3768,Diversity Job,7,2868
+3769,Diversity Job,32,949
+377,Indeed,5,458
+3770,Employee Referral,11,1190
+3771,LinkedIn,1,2419
+3772,LinkedIn,10,949
+3773,Indeed,7,1398
+3774,LinkedIn,5,2419
+3775,LinkedIn,5,3398
+3778,Indeed,15,2419
+3779,LinkedIn,21,369
+378,LinkedIn,17,2419
+3780,Indeed,1,1190
+3781,Indeed,2,949
+3782,Google Search,10,949
+3783,Indeed,5,949
+3784,LinkedIn,7,1398
+3785,Indeed,3,369
+3786,Diversity Job,8,3438
+3787,Google Search,1,2419
+3788,Indeed,2,2419
+3789,Indeed,10,2419
+379,Employee Referral,10,2660
+3790,Other,6,1272
+3791,Indeed,3,369
+3792,Indeed,4,2419
+3793,LinkedIn,1,2419
+3794,CareerBuilder,33,2419
+3795,Diversity Job,5,2419
+3796,LinkedIn,6,949
+3797,Employee Referral,8,3438
+3798,Indeed,1,2419
+3799,LinkedIn,36,2419
+38,Indeed,20,3309
+380,Indeed,3,2419
+3800,Employee Referral,2,3889
+3801,Website,1,2419
+3803,Google Search,3,2419
+3805,Employee Referral,10,949
+3806,Diversity Job,5,458
+3808,Indeed,6,949
+3809,Employee Referral,1,949
+381,LinkedIn,5,1928
+3810,LinkedIn,2,2419
+3811,Website,3,369
+3812,Google Search,1,949
+3813,Diversity Job,10,2660
+3814,LinkedIn,8,3438
+3815,LinkedIn,5,949
+3816,LinkedIn,6,949
+3817,Google Search,1,1190
+3818,Employee Referral,26,949
+382,Indeed,4,3309
+3820,LinkedIn,4,369
+3821,LinkedIn,30,949
+3822,Indeed,3,3889
+3823,LinkedIn,22,2419
+3824,Indeed,6,2419
+3825,Google Search,10,1190
+3826,LinkedIn,10,1190
+3827,LinkedIn,5,3889
+3828,Employee Referral,3,2419
+383,LinkedIn,5,2419
+3831,LinkedIn,7,2868
+3832,Indeed,7,2868
+3833,Google Search,16,2419
+3834,LinkedIn,5,2419
+3835,LinkedIn,2,2419
+3836,Employee Referral,0,2419
+3837,Diversity Job,5,3889
+3838,Indeed,10,1190
+3839,Diversity Job,18,2419
+384,Indeed,10,949
+3840,Diversity Job,14,2419
+3841,Diversity Job,4,2419
+3843,On-line Web a,10,2419
+3844,Google Search,5,2419
+3845,Employee Referral,13,2419
+3846,Google Search,8,3438
+3847,Google Search,4,2419
+3848,LinkedIn,10,4130
+3849,Google Search,2,3309
+385,Indeed,2,3309
+3850,Indeed,2,2419
+3851,Indeed,6,3889
+3852,CareerBuilder,3,369
+3853,Google Search,4,2419
+3854,LinkedIn,4,369
+3855,Diversity Job,5,2419
+3856,Indeed,3,2419
+3858,Diversity Job,5,1928
+3859,Google Search,4,3309
+386,CareerBuilder,5,949
+3860,Diversity Job,14,2419
+3861,Google Search,2,2419
+3862,Employee Referral,11,949
+3863,Indeed,4,3889
+3865,Indeed,3,2419
+3866,Indeed,5,2419
+3867,LinkedIn,10,1190
+3868,LinkedIn,14,2419
+3869,Indeed,11,2419
+387,Indeed,6,2419
+3870,Google Search,13,2419
+3871,Indeed,10,949
+3872,Indeed,6,2419
+3874,Employee Referral,10,949
+3875,Indeed,2,2419
+3876,Indeed,4,369
+3877,Indeed,3,2419
+3878,Google Search,8,3438
+3879,Indeed,2,949
+388,Google Search,3,369
+3880,Employee Referral,2,949
+3881,Employee Referral,6,949
+3882,LinkedIn,3,2419
+3883,CareerBuilder,2,3889
+3885,Indeed,0,2419
+3886,Indeed,4,949
+3888,Employee Referral,1,1190
+3889,Indeed,7,1398
+389,Indeed,2,2419
+3890,LinkedIn,4,949
+3891,Indeed,15,369
+3892,LinkedIn,1,2660
+3893,Indeed,14,1190
+3894,Indeed,6,949
+3895,CareerBuilder,10,949
+3896,Indeed,3,949
+3898,Indeed,5,949
+3899,Indeed,10,949
+39,LinkedIn,0,2419
+390,Indeed,13,2419
+3900,Indeed,5,949
+3901,Website,10,1190
+3902,Indeed,5,2419
+3904,Employee Referral,23,369
+3905,Indeed,1,1190
+3906,Indeed,23,2419
+3907,Google Search,3,2419
+3908,Google Search,21,2419
+3909,Google Search,5,458
+391,Indeed,5,2419
+3910,LinkedIn,5,949
+3911,Employee Referral,3,3309
+3912,Indeed,1,949
+3913,Google Search,6,2419
+3914,Google Search,10,2419
+3916,LinkedIn,10,1190
+3917,LinkedIn,1,2419
+3918,Google Search,10,2419
+3919,Indeed,2,3889
+392,Website,12,2419
+3920,LinkedIn,0,2419
+3921,Google Search,3,3309
+3922,Google Search,5,1928
+3924,Employee Referral,4,949
+3925,Indeed,21,369
+3926,Other,5,2419
+3928,LinkedIn,2,3309
+3929,Employee Referral,4,949
+393,Indeed,5,2419
+3930,LinkedIn,5,2419
+3931,LinkedIn,6,1272
+3932,Diversity Job,2,369
+3933,CareerBuilder,3,3889
+3935,Indeed,5,949
+3936,Indeed,11,949
+3937,Indeed,5,458
+3938,LinkedIn,0,949
+3939,Indeed,6,949
+3941,Diversity Job,1,2419
+3942,Employee Referral,7,2868
+3943,LinkedIn,7,1398
+3944,LinkedIn,1,2419
+3945,Google Search,1,2419
+3947,Employee Referral,1,949
+3949,Indeed,5,949
+395,Employee Referral,10,2419
+3950,LinkedIn,15,949
+3951,Google Search,3,3889
+3953,CareerBuilder,2,369
+3954,CareerBuilder,1,1190
+3955,Google Search,5,2419
+3956,CareerBuilder,1,2419
+3957,Indeed,12,949
+3958,Indeed,2,949
+3959,Indeed,5,2419
+396,Indeed,31,949
+3960,LinkedIn,2,369
+3961,Indeed,12,2419
+3962,LinkedIn,5,1928
+3963,LinkedIn,10,2419
+3964,Indeed,10,2419
+3965,Google Search,10,2419
+3966,Indeed,5,458
+3967,Indeed,4,369
+3968,LinkedIn,2,949
+3969,Employee Referral,4,949
+397,Indeed,5,2419
+3970,LinkedIn,0,2419
+3972,CareerBuilder,11,1190
+3973,Indeed,7,1398
+3974,LinkedIn,10,949
+3975,CareerBuilder,2,949
+3977,Indeed,3,2419
+3978,Indeed,22,2419
+398,Google Search,4,369
+3982,LinkedIn,5,458
+3983,Indeed,10,2419
+3984,Diversity Job,16,949
+3985,Employee Referral,5,949
+3986,Employee Referral,22,949
+3987,Indeed,7,2868
+3989,Website,3,369
+399,Google Search,1,949
+3990,Google Search,3,369
+3991,Indeed,4,2419
+3992,CareerBuilder,5,458
+3993,CareerBuilder,2,949
+3994,Google Search,0,2419
+3995,Website,1,2419
+3996,Website,2,2419
+3998,LinkedIn,1,1190
+4,Indeed,8,3438
+40,LinkedIn,11,2660
+400,Google Search,4,2419
+4000,LinkedIn,5,1928
+4001,Indeed,11,2419
+4002,Website,0,1190
+4003,Diversity Job,6,2419
+4004,Indeed,2,369
+4006,LinkedIn,3,2419
+4007,LinkedIn,7,2868
+4008,LinkedIn,0,1190
+4009,Google Search,2,2419
+401,LinkedIn,8,3438
+4010,Indeed,19,2419
+4012,CareerBuilder,1,2419
+4013,Website,16,2419
+4014,Diversity Job,22,2419
+4015,CareerBuilder,1,2419
+4016,Indeed,8,3438
+4017,LinkedIn,7,2868
+4018,LinkedIn,2,949
+4019,Diversity Job,5,2419
+402,Employee Referral,4,3309
+4020,Indeed,1,2419
+4021,Diversity Job,1,1190
+4022,CareerBuilder,1,2419
+4023,LinkedIn,10,2419
+4024,LinkedIn,10,2419
+4025,LinkedIn,5,458
+4026,Indeed,3,949
+4027,Diversity Job,5,2419
+4028,Employee Referral,3,369
+403,Indeed,1,1190
+4030,Diversity Job,10,2419
+4031,Indeed,19,2419
+4032,LinkedIn,1,949
+4033,Indeed,8,3438
+4034,LinkedIn,22,3889
+4035,LinkedIn,2,369
+4036,Indeed,5,2419
+4038,LinkedIn,4,2419
+4039,Website,5,2419
+404,Google Search,1,2660
+4040,Google Search,13,2419
+4041,Diversity Job,5,458
+4042,Employee Referral,4,2419
+4043,Google Search,2,369
+4045,LinkedIn,4,2419
+4046,Indeed,10,1190
+4049,Employee Referral,3,2419
+405,Google Search,2,2419
+4050,Google Search,5,458
+4051,Google Search,15,949
+4052,Website,2,949
+4053,Google Search,8,3438
+4054,Employee Referral,0,2419
+4055,Indeed,10,949
+4056,Diversity Job,20,2419
+4057,Indeed,1,1190
+4058,Indeed,4,2419
+4059,CareerBuilder,5,2419
+406,Indeed,1,2419
+4060,LinkedIn,5,1928
+4061,Google Search,0,1190
+4062,Google Search,1,1190
+4063,Indeed,5,2419
+4064,Indeed,5,2419
+4065,Indeed,4,369
+4066,Employee Referral,5,2419
+4067,Employee Referral,14,1190
+4068,LinkedIn,8,3438
+4069,Indeed,7,2868
+407,LinkedIn,16,949
+4070,Website,5,2419
+4071,Google Search,5,949
+4072,Indeed,10,2419
+4073,Diversity Job,4,369
+4074,Indeed,1,3889
+4075,Diversity Job,10,2419
+4077,CareerBuilder,1,2419
+4078,LinkedIn,10,2419
+4079,LinkedIn,2,2419
+408,LinkedIn,3,2419
+4080,Google Search,4,2419
+4082,LinkedIn,10,2419
+4083,Employee Referral,6,2419
+4084,Website,10,1190
+4085,CareerBuilder,1,1190
+4086,Indeed,20,949
+4087,Diversity Job,20,2419
+4088,Diversity Job,11,949
+4089,Employee Referral,5,2419
+409,Google Search,3,2419
+4090,LinkedIn,4,949
+4091,LinkedIn,5,2419
+4092,Indeed,10,2419
+4093,LinkedIn,11,2419
+4094,LinkedIn,2,369
+4096,Website,2,949
+4097,Indeed,17,949
+4098,LinkedIn,1,2419
+4099,Indeed,15,3889
+41,Indeed,1,2419
+410,Indeed,7,2868
+4100,Indeed,2,2419
+4101,Google Search,8,3438
+4102,Indeed,4,949
+4103,LinkedIn,5,458
+4104,Indeed,13,2419
+4105,Diversity Job,2,2419
+4107,Indeed,10,949
+4109,Other,6,3889
+411,LinkedIn,2,2419
+4110,Indeed,1,2419
+4111,Indeed,2,2419
+4112,LinkedIn,7,2868
+4113,CareerBuilder,18,369
+4114,Diversity Job,14,2419
+4115,LinkedIn,16,2419
+4116,Employee Referral,5,2419
+4118,LinkedIn,4,2419
+4119,Employee Referral,2,369
+412,Google Search,2,2419
+4120,Website,6,2419
+4121,Employee Referral,1,2419
+4123,LinkedIn,4,2419
+4124,Employee Referral,13,2419
+4125,Diversity Job,2,2419
+4126,CareerBuilder,22,2419
+4127,Indeed,10,1190
+4128,Employee Referral,20,3889
+413,Google Search,1,2419
+4130,Website,15,369
+4131,Google Search,5,3889
+4132,Diversity Job,4,3309
+4134,LinkedIn,10,3889
+4135,LinkedIn,6,1272
+4136,Google Search,6,3889
+4137,Employee Referral,5,1928
+4138,Employee Referral,2,3309
+4139,LinkedIn,10,4130
+414,Google Search,1,2419
+4140,LinkedIn,5,2419
+4142,LinkedIn,4,949
+4143,Indeed,5,3889
+4144,Google Search,3,949
+4145,LinkedIn,20,369
+4147,Employee Referral,4,3889
+4148,LinkedIn,5,2419
+4149,Indeed,7,2868
+415,Employee Referral,5,1928
+4150,LinkedIn,6,2419
+4152,Google Search,4,369
+4153,LinkedIn,6,949
+4154,LinkedIn,10,1190
+4155,Employee Referral,0,949
+4156,Diversity Job,8,3438
+4157,Indeed,2,3309
+4158,Diversity Job,7,2868
+4159,Diversity Job,1,4130
+416,Indeed,3,369
+4160,Diversity Job,1,949
+4162,On-line Web a,7,2868
+4165,Google Search,5,2419
+4166,Google Search,2,2419
+4167,LinkedIn,4,2419
+4168,Google Search,10,949
+417,Other,6,949
+4170,Indeed,1,949
+4171,CareerBuilder,25,949
+4172,Google Search,3,949
+4173,LinkedIn,4,2419
+4174,Diversity Job,5,949
+4175,Indeed,12,1190
+4176,Google Search,0,1190
+4177,Diversity Job,4,369
+4178,Google Search,14,1190
+4179,Diversity Job,10,949
+4181,Employee Referral,22,949
+4182,Indeed,2,369
+4183,Google Search,1,1190
+4185,Indeed,10,949
+4188,Indeed,5,458
+4189,Google Search,3,949
+419,LinkedIn,10,949
+4190,Indeed,2,369
+4191,Indeed,1,949
+4192,LinkedIn,5,458
+4193,Employee Referral,1,949
+4194,Indeed,1,1190
+4195,Indeed,1,4130
+4197,Google Search,12,949
+4198,Indeed,22,369
+42,Google Search,4,2419
+420,Employee Referral,26,2419
+4200,Employee Referral,1,949
+4202,CareerBuilder,1,2419
+4203,Indeed,1,2419
+4204,Indeed,2,949
+4205,Indeed,4,949
+4206,LinkedIn,4,949
+4207,Employee Referral,2,2419
+4208,Indeed,15,3309
+421,LinkedIn,0,949
+4214,CareerBuilder,10,949
+4215,Indeed,27,369
+4216,Google Search,21,2419
+4217,Indeed,17,369
+4218,Indeed,5,2419
+4219,Indeed,6,2419
+4220,Website,1,949
+4222,CareerBuilder,1,1190
+4223,Employee Referral,4,2419
+4224,Indeed,5,949
+4225,Indeed,1,949
+4226,Google Search,10,1190
+4227,Google Search,1,949
+4228,Google Search,11,949
+4229,LinkedIn,15,949
+4231,Indeed,5,949
+4232,Google Search,4,949
+4233,Google Search,10,1190
+4234,Indeed,6,2419
+4235,LinkedIn,1,2419
+4236,LinkedIn,13,1190
+4237,Google Search,5,2419
+4239,LinkedIn,0,949
+424,CareerBuilder,15,369
+4240,Google Search,4,949
+4241,Google Search,11,1190
+4243,Employee Referral,22,949
+4244,Indeed,10,949
+4245,Other,11,2419
+4246,CareerBuilder,10,2419
+4247,LinkedIn,11,1190
+4248,Employee Referral,4,2419
+4249,LinkedIn,3,369
+425,Diversity Job,3,369
+4250,LinkedIn,5,1928
+4251,Diversity Job,37,949
+4252,CareerBuilder,3,2419
+4255,Indeed,1,1190
+4256,Indeed,16,949
+4257,LinkedIn,1,1190
+4258,Indeed,3,2419
+4259,Diversity Job,8,3438
+426,Indeed,1,3889
+4260,Diversity Job,6,1272
+4261,Employee Referral,2,2419
+4262,LinkedIn,0,2419
+4263,LinkedIn,13,2419
+4265,LinkedIn,5,949
+4266,Employee Referral,5,949
+4267,CareerBuilder,1,1190
+4268,Indeed,5,458
+4269,LinkedIn,11,1190
+427,Indeed,1,949
+4271,LinkedIn,1,949
+4272,CareerBuilder,25,949
+4273,CareerBuilder,10,949
+4275,CareerBuilder,5,2419
+4276,Indeed,20,949
+4277,Indeed,7,2868
+4278,Indeed,5,458
+4279,LinkedIn,40,369
+4280,Indeed,0,949
+4281,LinkedIn,2,369
+4282,LinkedIn,15,2419
+4283,Indeed,3,3309
+4284,Google Search,2,949
+4285,Indeed,2,949
+4287,LinkedIn,8,3438
+4289,LinkedIn,4,2419
+429,LinkedIn,18,2419
+4290,LinkedIn,15,2419
+4291,CareerBuilder,2,369
+4292,Indeed,11,2419
+4293,LinkedIn,5,2419
+4294,CareerBuilder,6,2419
+4295,Google Search,3,2419
+4296,Indeed,5,1928
+4298,Indeed,3,2419
+4299,Google Search,5,458
+43,Indeed,22,2419
+430,Indeed,11,2419
+4301,LinkedIn,5,3889
+4302,Indeed,1,2419
+4303,Diversity Job,20,949
+4304,Employee Referral,10,1190
+4306,Indeed,17,3309
+4308,Website,10,2419
+4309,Google Search,1,2419
+431,Diversity Job,1,2419
+4310,Indeed,1,4130
+4311,CareerBuilder,12,2419
+4312,CareerBuilder,4,3309
+4313,Google Search,2,2419
+4314,Website,2,2419
+4315,Website,5,1928
+4316,Indeed,5,2419
+4317,LinkedIn,1,2419
+4318,Diversity Job,5,2419
+432,Diversity Job,1,949
+4322,Diversity Job,5,2419
+4323,Indeed,5,2419
+4324,LinkedIn,0,2419
+4326,LinkedIn,12,2660
+4327,LinkedIn,5,3889
+4328,Google Search,2,2419
+4329,Indeed,3,2419
+4330,LinkedIn,1,2419
+4331,CareerBuilder,24,2419
+4332,Website,2,3309
+4333,Diversity Job,4,3309
+4334,CareerBuilder,3,3309
+4335,Indeed,4,949
+4336,LinkedIn,3,369
+4337,LinkedIn,4,369
+4338,Diversity Job,8,3438
+4339,Indeed,20,949
+434,LinkedIn,1,1190
+4340,Diversity Job,24,2419
+4343,LinkedIn,33,2419
+4345,Indeed,1,2419
+4346,Diversity Job,5,2419
+4347,Employee Referral,20,2419
+4348,LinkedIn,8,3438
+4349,Diversity Job,6,2419
+435,LinkedIn,8,3438
+4350,Indeed,5,2419
+4351,LinkedIn,1,1190
+4353,LinkedIn,2,949
+4354,LinkedIn,7,2868
+4355,Indeed,5,3889
+4356,LinkedIn,7,2868
+4357,LinkedIn,1,1190
+4358,Website,10,1190
+4359,Google Search,4,2419
+436,Google Search,16,2419
+4360,Diversity Job,8,3438
+4361,Employee Referral,3,2419
+4362,Google Search,4,3889
+4363,CareerBuilder,14,2419
+4364,LinkedIn,11,2419
+4365,Indeed,7,2868
+4366,Indeed,10,2419
+4367,LinkedIn,5,3889
+4368,Employee Referral,1,2419
+4369,Google Search,6,1272
+437,LinkedIn,5,949
+4370,Google Search,6,2419
+4371,Website,19,2419
+4372,Google Search,6,1272
+4373,Employee Referral,13,2419
+4374,Indeed,3,3309
+4375,Diversity Job,10,4130
+4376,Indeed,16,2419
+4377,Indeed,5,1928
+4378,CareerBuilder,1,949
+438,Employee Referral,14,1190
+4380,Google Search,11,1190
+4381,Google Search,10,2419
+4382,Indeed,4,2419
+4383,Indeed,2,949
+4384,Indeed,22,2419
+4385,Employee Referral,2,2419
+4386,Employee Referral,7,1398
+4387,LinkedIn,5,458
+4388,Indeed,17,3309
+4390,Google Search,33,949
+4392,Diversity Job,3,369
+4393,Indeed,3,369
+4394,Diversity Job,3,3309
+4395,Google Search,1,1190
+4397,LinkedIn,24,949
+4398,LinkedIn,2,2419
+4399,Google Search,2,2419
+44,Indeed,0,1190
+440,Indeed,3,949
+4400,LinkedIn,11,2419
+4401,LinkedIn,3,2419
+4402,Employee Referral,3,3309
+4403,Website,1,1190
+4404,CareerBuilder,19,949
+4405,Indeed,6,1272
+4406,Diversity Job,3,949
+4407,Diversity Job,3,949
+4408,Employee Referral,4,949
+4410,LinkedIn,21,949
+443,LinkedIn,1,1190
+444,CareerBuilder,17,2419
+446,Google Search,5,458
+447,CareerBuilder,10,1190
+449,Indeed,1,2419
+45,LinkedIn,8,3438
+450,Indeed,19,949
+452,Indeed,3,2419
+453,LinkedIn,10,2660
+455,Indeed,3,3889
+456,Google Search,5,3889
+457,Indeed,5,458
+458,Indeed,6,1272
+459,LinkedIn,18,369
+46,Employee Referral,8,3438
+460,Employee Referral,2,2419
+463,CareerBuilder,5,1928
+464,Indeed,12,949
+465,LinkedIn,2,949
+466,CareerBuilder,8,3438
+467,Google Search,4,369
+468,Indeed,4,369
+469,Indeed,4,2419
+47,Indeed,18,369
+470,Indeed,0,1190
+471,Google Search,10,1190
+472,Google Search,16,949
+473,LinkedIn,8,3438
+474,Indeed,1,2419
+475,Diversity Job,3,2419
+477,Employee Referral,4,2419
+479,LinkedIn,15,369
+480,Website,2,949
+481,Google Search,21,369
+482,Indeed,3,949
+483,CareerBuilder,3,369
+484,CareerBuilder,1,949
+485,Google Search,1,4130
+486,Website,5,949
+487,Website,1,2660
+488,Indeed,8,3438
+489,LinkedIn,21,949
+49,Indeed,13,2660
+490,Diversity Job,1,2419
+491,LinkedIn,2,2419
+492,Indeed,32,2419
+493,Website,12,2419
+495,Indeed,17,369
+496,LinkedIn,21,369
+497,LinkedIn,2,369
+499,LinkedIn,8,3438
+5,Google Search,6,2419
+50,Google Search,10,2419
+500,Google Search,15,3309
+501,Indeed,6,949
+502,LinkedIn,6,949
+503,CareerBuilder,15,369
+504,Website,1,2419
+505,Diversity Job,3,369
+506,CareerBuilder,1,2419
+507,Indeed,1,3889
+508,LinkedIn,2,3309
+509,LinkedIn,8,3438
+51,Indeed,5,2419
+510,Diversity Job,4,2419
+512,Diversity Job,5,949
+513,CareerBuilder,2,949
+515,LinkedIn,5,2419
+516,LinkedIn,14,949
+518,Diversity Job,1,1190
+519,Employee Referral,2,369
+52,Employee Referral,5,2419
+520,LinkedIn,1,949
+521,Diversity Job,16,369
+522,Indeed,10,1190
+523,LinkedIn,10,949
+524,Indeed,5,2419
+525,LinkedIn,6,3889
+526,LinkedIn,10,4130
+527,Indeed,19,949
+528,LinkedIn,11,1190
+529,LinkedIn,3,369
+53,Employee Referral,2,3309
+530,Website,3,949
+531,Google Search,8,3438
+532,Diversity Job,20,949
+533,Employee Referral,3,369
+535,CareerBuilder,13,949
+537,Indeed,6,1272
+538,Indeed,1,2419
+54,LinkedIn,24,2419
+540,Employee Referral,1,1190
+541,Google Search,2,949
+542,Google Search,22,2419
+543,Website,1,949
+544,Google Search,0,949
+545,Employee Referral,3,369
+546,Indeed,0,1190
+547,Diversity Job,5,458
+548,Indeed,15,2419
+55,CareerBuilder,2,3309
+550,CareerBuilder,8,3438
+551,LinkedIn,7,2868
+553,Google Search,12,2419
+554,Indeed,1,2419
+555,Indeed,8,3438
+556,Indeed,18,369
+557,Employee Referral,20,2419
+558,Employee Referral,2,2419
+559,LinkedIn,5,2419
+56,Indeed,10,2419
+560,Indeed,11,3889
+561,Website,2,2419
+562,Google Search,5,458
+563,Indeed,5,949
+565,Indeed,3,369
+566,Diversity Job,7,2868
+567,Google Search,1,1190
+568,CareerBuilder,10,1190
+569,LinkedIn,7,4338
+57,Indeed,21,369
+570,LinkedIn,3,369
+571,Google Search,0,2419
+572,LinkedIn,5,2419
+573,LinkedIn,1,949
+574,Employee Referral,2,3309
+575,Website,6,2419
+576,CareerBuilder,4,2419
+577,Indeed,6,1272
+578,Diversity Job,5,2419
+579,Diversity Job,11,2419
+58,Indeed,8,3438
+580,Employee Referral,18,2419
+581,LinkedIn,21,3309
+582,LinkedIn,6,2419
+583,Indeed,8,3438
+584,LinkedIn,4,369
+585,LinkedIn,1,2419
+586,Google Search,8,3438
+587,Website,10,949
+588,Indeed,1,2419
+589,LinkedIn,7,2868
+59,LinkedIn,7,2868
+590,Indeed,13,2419
+591,Indeed,2,2419
+592,Google Search,4,3309
+593,Indeed,1,949
+594,LinkedIn,5,2419
+595,Indeed,10,949
+596,Diversity Job,1,949
+597,Google Search,3,2419
+598,Indeed,14,949
+599,Indeed,2,2419
+6,LinkedIn,7,1398
+60,Employee Referral,8,3438
+601,Indeed,7,2868
+602,Indeed,5,2419
+603,LinkedIn,0,3889
+604,CareerBuilder,26,2419
+605,Diversity Job,0,2419
+606,LinkedIn,5,949
+607,Employee Referral,1,949
+608,Indeed,4,369
+609,LinkedIn,0,1190
+61,Indeed,4,3889
+610,Employee Referral,2,3889
+611,Website,6,2419
+612,Employee Referral,4,2419
+615,Employee Referral,10,949
+616,Diversity Job,7,1398
+617,CareerBuilder,10,1190
+618,Indeed,20,949
+619,Employee Referral,2,949
+62,LinkedIn,13,2419
+620,LinkedIn,6,1272
+621,Website,4,2419
+622,Google Search,11,1190
+623,Diversity Job,2,369
+624,LinkedIn,8,3438
+626,LinkedIn,14,1190
+627,Google Search,5,2419
+628,Employee Referral,4,2419
+629,Employee Referral,11,1190
+63,Indeed,5,949
+631,LinkedIn,13,949
+633,LinkedIn,5,949
+635,Google Search,1,1190
+636,LinkedIn,3,2419
+637,LinkedIn,10,2419
+638,Employee Referral,6,949
+639,LinkedIn,10,1190
+640,Indeed,6,2419
+641,LinkedIn,8,3438
+642,Indeed,1,1190
+643,Google Search,11,1190
+644,LinkedIn,1,2419
+645,LinkedIn,5,2419
+646,Employee Referral,6,1272
+647,Diversity Job,1,4130
+648,Indeed,7,1398
+649,Diversity Job,1,1190
+65,Indeed,7,2868
+650,Diversity Job,22,949
+652,Google Search,1,1190
+653,On-line Web a,1,1190
+654,Google Search,1,949
+657,Google Search,33,2419
+658,LinkedIn,2,949
+659,Google Search,11,949
+66,Indeed,3,2419
+660,Indeed,3,369
+661,Indeed,29,949
+663,Google Search,11,1190
+664,LinkedIn,4,2419
+665,Diversity Job,25,949
+666,Indeed,10,1190
+667,Google Search,3,2419
+668,Diversity Job,1,2419
+669,Google Search,21,2419
+67,CareerBuilder,10,2419
+670,Diversity Job,16,2419
+671,Google Search,10,2419
+672,Employee Referral,2,2419
+674,Google Search,8,3438
+675,Indeed,7,2868
+676,Indeed,3,3309
+677,LinkedIn,2,2419
+678,LinkedIn,10,2419
+679,Indeed,0,949
+68,Indeed,10,2419
+680,Google Search,19,3309
+681,Indeed,2,949
+682,Indeed,10,2419
+683,LinkedIn,5,2419
+688,Google Search,3,2419
+689,Indeed,5,3398
+69,Google Search,21,949
+690,Employee Referral,8,3438
+692,LinkedIn,8,3438
+693,CareerBuilder,10,2419
+694,Indeed,19,3309
+695,Indeed,3,2419
+696,Indeed,3,3309
+697,LinkedIn,20,2419
+698,Employee Referral,19,3309
+7,LinkedIn,0,2419
+70,Indeed,1,2419
+700,LinkedIn,4,3889
+705,CareerBuilder,33,3309
+707,Google Search,10,1190
+708,Indeed,3,2419
+709,Indeed,10,1190
+710,Indeed,4,2419
+711,Website,15,369
+712,Indeed,10,2419
+713,CareerBuilder,1,949
+714,Employee Referral,5,949
+715,Indeed,0,2419
+717,Google Search,6,949
+718,Google Search,19,949
+719,Google Search,19,949
+72,Indeed,3,2419
+720,LinkedIn,5,458
+721,Employee Referral,12,949
+722,Indeed,8,3438
+723,Google Search,1,2419
+724,Google Search,4,2419
+725,Indeed,4,2419
+726,LinkedIn,14,2419
+727,LinkedIn,5,2419
+728,Google Search,10,2419
+729,Indeed,5,2419
+730,LinkedIn,4,2419
+731,Google Search,6,949
+732,Google Search,6,2419
+733,Google Search,5,2419
+734,Employee Referral,3,2419
+735,Indeed,6,3889
+736,Other,3,2419
+737,CareerBuilder,5,2419
+738,LinkedIn,20,2419
+739,Employee Referral,6,2419
+74,Indeed,5,2419
+740,LinkedIn,8,3438
+741,LinkedIn,4,2419
+742,Diversity Job,20,369
+743,CareerBuilder,5,2419
+744,Diversity Job,3,2419
+745,Indeed,2,2419
+746,Indeed,3,2419
+747,Indeed,7,2868
+748,LinkedIn,10,1190
+749,Indeed,4,369
+75,CareerBuilder,4,2419
+751,Diversity Job,20,369
+753,LinkedIn,7,2868
+754,LinkedIn,5,2419
+755,Google Search,1,4130
+756,LinkedIn,3,369
+757,Employee Referral,3,2419
+758,CareerBuilder,4,369
+759,Indeed,1,1190
+76,Employee Referral,1,949
+761,Google Search,10,1190
+762,LinkedIn,3,949
+763,CareerBuilder,6,949
+764,CareerBuilder,3,3309
+765,Google Search,6,1272
+766,CareerBuilder,3,2419
+767,Indeed,20,2419
+768,Indeed,5,2419
+769,Indeed,4,3309
+77,Indeed,10,1190
+770,LinkedIn,5,2419
+771,Indeed,4,2419
+773,LinkedIn,13,949
+774,Indeed,7,2868
+775,Google Search,1,2419
+776,Indeed,10,4130
+778,LinkedIn,3,2419
+779,Employee Referral,2,2419
+78,Indeed,4,2419
+780,LinkedIn,3,2419
+781,LinkedIn,2,2419
+782,CareerBuilder,2,949
+784,LinkedIn,5,2419
+785,CareerBuilder,5,949
+787,Indeed,3,2419
+788,Indeed,3,2419
+789,Indeed,5,3889
+79,Google Search,7,2868
+791,Google Search,13,2419
+792,LinkedIn,2,369
+793,Indeed,12,949
+794,Diversity Job,1,949
+795,Employee Referral,1,949
+796,Employee Referral,12,1190
+797,Indeed,8,3438
+798,LinkedIn,14,949
+799,Website,3,2419
+8,Employee Referral,0,3889
+800,Google Search,5,949
+801,Indeed,15,2419
+802,CareerBuilder,1,4130
+803,CareerBuilder,0,4130
+804,Google Search,1,2419
+805,Website,2,2419
+806,Website,10,2660
+807,Indeed,5,949
+808,LinkedIn,3,3309
+809,Diversity Job,5,2419
+81,Google Search,10,2419
+810,LinkedIn,5,2419
+811,Indeed,0,1190
+812,Website,1,1190
+813,Diversity Job,4,949
+814,Indeed,3,2419
+815,LinkedIn,3,3889
+816,LinkedIn,8,3438
+817,LinkedIn,0,3889
+818,LinkedIn,5,2419
+819,Google Search,14,1190
+82,LinkedIn,8,3438
+821,LinkedIn,20,369
+822,CareerBuilder,2,369
+823,Website,13,949
+824,Diversity Job,11,2419
+825,CareerBuilder,4,949
+826,Indeed,5,2419
+828,LinkedIn,7,2868
+829,Diversity Job,32,2419
+83,Employee Referral,6,1272
+830,Indeed,11,1190
+831,Diversity Job,1,949
+832,CareerBuilder,10,949
+833,LinkedIn,7,2868
+834,LinkedIn,5,2419
+835,LinkedIn,5,458
+838,Employee Referral,15,949
+839,LinkedIn,21,369
+84,Indeed,11,2419
+840,Diversity Job,1,1190
+841,Indeed,2,2419
+842,LinkedIn,10,949
+843,Indeed,5,2419
+844,LinkedIn,7,2868
+845,LinkedIn,3,3309
+846,Indeed,8,3438
+847,LinkedIn,1,949
+848,LinkedIn,2,2419
+849,Website,10,949
+85,Google Search,11,2419
+850,Google Search,6,1272
+851,Diversity Job,3,369
+852,Employee Referral,4,949
+853,Google Search,1,949
+854,CareerBuilder,33,949
+855,LinkedIn,5,2419
+856,Indeed,6,949
+857,Indeed,8,3438
+858,LinkedIn,1,2419
+859,Employee Referral,36,2419
+86,Google Search,7,4338
+860,Google Search,2,2419
+861,Google Search,1,2419
+863,Google Search,3,949
+865,Indeed,10,949
+866,Diversity Job,5,458
+868,Indeed,6,949
+869,CareerBuilder,1,949
+87,Indeed,16,3309
+870,LinkedIn,2,949
+871,Google Search,3,369
+872,Google Search,1,949
+873,Indeed,10,1190
+874,Indeed,8,3438
+875,Indeed,5,2419
+876,Employee Referral,6,2419
+877,Employee Referral,1,1190
+878,LinkedIn,26,2419
+88,LinkedIn,4,3889
+880,Website,4,369
+881,Google Search,30,2419
+882,Indeed,3,949
+883,Diversity Job,22,2419
+884,Indeed,6,2419
+885,Diversity Job,10,1190
+886,Google Search,10,1190
+887,CareerBuilder,5,2419
+888,LinkedIn,3,949
+89,LinkedIn,5,949
+891,LinkedIn,7,2868
+892,LinkedIn,7,2868
+893,Employee Referral,16,2419
+894,Website,5,3889
+895,CareerBuilder,2,2419
+896,Indeed,0,2419
+897,Diversity Job,5,2419
+898,Diversity Job,10,1190
+899,Employee Referral,18,2419
+90,Google Search,0,1190
+900,LinkedIn,14,2419
+901,LinkedIn,4,2419
+903,LinkedIn,10,2419
+904,LinkedIn,5,3889
+905,Google Search,13,2419
+906,Website,8,3438
+907,Indeed,4,2419
+908,LinkedIn,10,2660
+909,Indeed,2,3309
+91,Indeed,1,2419
+910,Indeed,2,2419
+911,Google Search,6,949
+912,Indeed,3,369
+913,LinkedIn,4,2419
+914,Indeed,4,369
+915,Diversity Job,5,949
+916,Google Search,3,949
+918,Indeed,5,458
+919,Other,4,369
+92,LinkedIn,4,3309
+920,Indeed,14,949
+921,Indeed,2,2419
+922,LinkedIn,11,2419
+923,CareerBuilder,4,949
+925,LinkedIn,3,2419
+926,Employee Referral,5,2419
+927,Indeed,10,1190
+928,LinkedIn,14,2419
+929,Employee Referral,11,949
+93,Google Search,3,3309
+930,Website,13,949
+931,Employee Referral,10,2419
+932,Google Search,6,2419
+934,Employee Referral,10,2419
+935,Diversity Job,2,949
+936,CareerBuilder,4,369
+937,Indeed,3,949
+938,Employee Referral,8,3438
+939,LinkedIn,2,949
+94,Google Search,8,3438
+940,Website,2,949
+941,Google Search,6,949
+942,Diversity Job,3,3889
+943,LinkedIn,2,2419
+945,LinkedIn,0,949
+946,Google Search,4,949
+948,Employee Referral,1,1190
+949,LinkedIn,7,1398
+95,Google Search,0,1190
+950,LinkedIn,4,2419
+951,Indeed,15,369
+952,LinkedIn,1,1190
+953,Indeed,14,1190
+954,Google Search,6,949
+955,LinkedIn,10,2419
+956,LinkedIn,3,949
+958,LinkedIn,5,2419
+959,Indeed,10,949
+96,Employee Referral,7,2868
+960,LinkedIn,5,949
+961,Indeed,10,1190
+962,Google Search,5,2419
+964,LinkedIn,23,369
+965,Employee Referral,1,1190
+966,Diversity Job,23,2419
+967,Indeed,3,949
+968,Diversity Job,21,949
+969,Diversity Job,5,458
+97,Indeed,2,3309
+970,Diversity Job,5,2419
+971,Google Search,3,3309
+972,On-line Web a,1,949
+973,Google Search,6,2419
+974,Employee Referral,10,949
+976,Google Search,10,2660
+977,LinkedIn,1,2419
+978,Google Search,10,2419
+979,Indeed,2,2419
+980,Indeed,0,2419
+981,CareerBuilder,3,369
+982,Google Search,5,1928
+984,Diversity Job,4,949
+985,Indeed,21,3309
+986,Google Search,5,949
+988,Google Search,2,369
+989,Diversity Job,4,949
+99,CareerBuilder,1,1190
+990,Google Search,5,949
+991,Employee Referral,6,1272
+992,Indeed,2,3309
+993,Google Search,3,949
+995,Indeed,5,949
+996,LinkedIn,11,949
+997,LinkedIn,5,1928
+998,Indeed,0,949
+999,Google Search,6,949

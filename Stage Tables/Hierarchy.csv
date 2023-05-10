@@ -1,0 +1,54 @@
+﻿DepartmentName,RoleName,EmployeeId,UserName
+Sales,Healthcare Representative,358,asaranya@fastenal.com
+Sales,Sales Executive,358,asaranya@fastenal.com
+Sales,Research Scientist,358,asaranya@fastenal.com
+Sales,Research Director,358,asaranya@fastenal.com
+Sales,Human Resources,358,asaranya@fastenal.com
+Sales,Manufacturing Director,358,asaranya@fastenal.com
+Sales,Sales Representative,358,asaranya@fastenal.com
+Sales,Laboratory Technician,358,asaranya@fastenal.com
+Sales,Manager,358,asaranya@fastenal.com
+Human Resources,Healthcare Representative,3819,ndande@fastenal.com
+Human Resources,Sales Executive,3819,ndande@fastenal.com
+Human Resources,Research Scientist,3819,ndande@fastenal.com
+Human Resources,Research Director,3819,ndande@fastenal.com
+Human Resources,Human Resources,3819,ndande@fastenal.com
+Human Resources,Manufacturing Director,3819,ndande@fastenal.com
+Human Resources,Sales Representative,3819,ndande@fastenal.com
+Human Resources,Laboratory Technician,3819,ndande@fastenal.com
+Human Resources,Manager,3819,ndande@fastenal.com
+Research & Development,Healthcare Representative,1509,arajpoot@fastenal.com
+Research & Development,Sales Executive,1509,arajpoot@fastenal.com
+Research & Development,Research Scientist,1509,arajpoot@fastenal.com
+Research & Development,Research Director,1509,arajpoot@fastenal.com
+Research & Development,Human Resources,1509,arajpoot@fastenal.com
+Research & Development,Manufacturing Director,1509,arajpoot@fastenal.com
+Research & Development,Sales Representative,1509,arajpoot@fastenal.com
+Research & Development,Laboratory Technician,1509,arajpoot@fastenal.com
+Research & Development,Manager,1509,arajpoot@fastenal.com
+Human Resources,Healthcare Representative,1384,rdasara@fastenal.com
+Sales,Healthcare Representative,1,lc@fastenal.com
+Research & Development,Sales Representative,3121,sasingh@fastenal.com
+Human Resources,Sales Representative,1314,vdoolam@fastenal.com
+Sales,Sales Executive,3298,swsingh@fastenal.com
+Human Resources,Research Scientist,1401,abkumar@fastenal.com
+Sales,Research Director,914,sareeb@fastenal.com
+Sales,Human Resources,3355,sbu@fastenal.com
+Human Resources,Healthcare Representative,1006,rmj@fastenal.com
+Research & Development,Research Scientist,3198,smadhuka@fastenal.com
+Sales,Research Scientist,2984,mgupta@fastenal.com
+Human Resources,Sales Executive,1108,pkadamba@fastenal.com
+Research & Development,Sales Executive,2979,dkrishna@fastenal.com
+Human Resources,Manager,1576,uraychau@fastenal.com
+Sales,Manufacturing Director,138,sagarwal@fastenal.com
+Sales,Sales Representative,3817,hraj@fastenal.com
+Human Resources,Research Director,2699,btilagan@fastenal.com
+Research & Development,Manufacturing Director,24,ab@fastenal.com
+Sales,Laboratory Technician,2368,abmishra@fastenal.com
+Human Resources,Manufacturing Director,3554,ateotia@fastenal.com
+Human Resources,Human Resources,3173,ashukla@fastenal.com
+Sales,Manager,3410,aacharya@fastenal.com
+Research & Development,Manager,4280,sguntuma@fastenal.com
+Research & Development,Research Director,2366,maa@fastenal.com
+Research & Development,Laboratory Technician,4410,mo@fastenal.com
+Research & Development,Human Resources,4032,psingh@fastenal.com
